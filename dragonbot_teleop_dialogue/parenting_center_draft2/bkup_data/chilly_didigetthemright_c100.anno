@@ -1,0 +1,22 @@
+version 1.2
+audio chilly_didigetthemright_c100.wav
+phn 5 785 0 x
+phn 785 825 25 t
+phn 825 915 71 IH
+phn 915 1075 87 AE
+phn 1075 1125 40 n
+phn 1125 1295 89 AE
+phn 1295 1325 16 h
+phn 1325 1375 65 IH
+phn 1375 1405 50 n
+phn 1405 1465 65 EY
+phn 1465 1555 42 v
+phn 1555 1675 76 AY
+phn 1675 1805 77 IY
+phn 1805 1845 22 l
+phn 1845 1985 0 m
+phn 1985 2725 0 x
+phn 2725 2775 27 d
+phn 2775 2845 0 x
+phn 2845 3005 0 p
+end_markers

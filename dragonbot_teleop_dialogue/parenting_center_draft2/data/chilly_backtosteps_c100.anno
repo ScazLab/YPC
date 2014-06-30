@@ -1,0 +1,32 @@
+version 1.2
+audio chilly_backtosteps_c100.wav
+phn 5 735 0 x
+phn 735 945 15 h
+phn 945 995 65 w
+phn 995 1105 79 AH
+phn 1105 1175 100 l
+phn 1175 1315 83 EH
+phn 1315 1385 46 m
+phn 1385 1635 6 h
+phn 1635 1705 25 AA
+phn 1705 1755 57 t
+phn 1755 1815 66 AH
+phn 1815 1845 75 l
+phn 1845 1895 75 h
+phn 1895 2085 100 AW
+phn 2085 2175 74 IY
+phn 2175 2245 81 n
+phn 2245 2325 71 EH
+phn 2325 2395 50 n
+phn 2395 2635 112 AE
+phn 2635 2725 62 t
+phn 2725 2875 88 EH
+phn 2875 3025 34 z
+phn 3025 3065 51 t
+phn 3065 3295 109 AE
+phn 3295 3335 40 n
+phn 3335 3525 48 z
+phn 3525 4325 15 x
+phn 4325 4425 43 k
+phn 4425 4505 0 p
+end_markers

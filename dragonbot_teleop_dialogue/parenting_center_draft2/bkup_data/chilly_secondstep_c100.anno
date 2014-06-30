@@ -1,0 +1,25 @@
+version 1.2
+audio chilly_secondstep_c100.wav
+phn 5 775 0 x
+phn 775 835 31 j
+phn 835 885 28 h
+phn 885 1055 92 IH
+phn 1055 1135 65 AE
+phn 1135 1185 37 l
+phn 1185 1215 15 v
+phn 1215 1615 7 x
+phn 1615 1675 44 m
+phn 1675 1835 90 AY
+phn 1835 1915 65 l
+phn 1915 1975 65 IH
+phn 1975 2095 36 h
+phn 2095 2255 86 EH
+phn 2255 2305 14 r
+phn 2305 2335 37 d
+phn 2335 2475 81 EY
+phn 2475 2635 27 NG
+phn 2635 3415 0 x
+phn 3415 3485 26 d
+phn 3485 3545 0 n
+phn 3545 4005 0 p
+end_markers

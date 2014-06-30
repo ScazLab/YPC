@@ -1,0 +1,30 @@
+version 1.2
+audio chilly_nicetomeetyou_c100.wav
+phn 5 665 0 x
+phn 665 765 46 h
+phn 765 885 80 AW
+phn 885 1105 104 AY
+phn 1105 1185 46 n
+phn 1185 1355 92 IH
+phn 1355 1415 20 n
+phn 1415 1555 54 SH
+phn 1555 1665 75 IH
+phn 1665 1695 65 r
+phn 1695 1885 95 IY
+phn 1885 1915 12 n
+phn 1915 2275 0 x
+phn 2275 2355 68 m
+phn 2355 2415 65 AY
+phn 2415 2525 75 IY
+phn 2525 2595 29 n
+phn 2595 2645 46 s
+phn 2645 2695 65 IH
+phn 2695 2755 78 NG
+phn 2755 2835 67 IY
+phn 2835 2935 54 l
+phn 2935 3055 76 y
+phn 3055 3145 67 EH
+phn 3145 3205 65 r
+phn 3205 3415 0 x
+phn 3415 3505 0 p
+end_markers

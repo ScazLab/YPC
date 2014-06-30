@@ -1,0 +1,37 @@
+version 1.2
+audio chilly_doyouhavesiblings_c100.wav
+phn 5 255 12 m
+phn 255 635 9 x
+phn 635 695 19 h
+phn 695 825 81 IY
+phn 825 935 79 IH
+phn 935 1175 114 AW
+phn 1175 1235 65 EH
+phn 1235 1675 31 m
+phn 1675 1715 63 b
+phn 1715 1825 79 IY
+phn 1825 1935 74 y
+phn 1935 2015 66 IY
+phn 2015 2065 65 r
+phn 2065 2115 85 h
+phn 2115 2225 78 EH
+phn 2225 2265 76 n
+phn 2265 2325 65 EY
+phn 2325 2365 100 l
+phn 2365 2455 74 IY
+phn 2455 2485 63 n
+phn 2485 2645 92 AH
+phn 2645 2685 76 b
+phn 2685 2815 83 IH
+phn 2815 2855 51 z
+phn 2855 2945 71 IH
+phn 2945 3045 38 z
+phn 3045 3145 74 IH
+phn 3145 3215 36 z
+phn 3215 3275 40 t
+phn 3275 3465 98 EH
+phn 3465 3525 39 v
+phn 3525 3635 22 z
+phn 3635 4385 15 x
+phn 4385 4505 0 p
+end_markers

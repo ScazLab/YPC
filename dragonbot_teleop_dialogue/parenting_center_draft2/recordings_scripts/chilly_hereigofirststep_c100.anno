@@ -1,0 +1,34 @@
+version 1.2
+audio chilly_hereigofirststep_c100.wav
+phn 5 645 14 x
+phn 645 765 72 h
+phn 765 1045 124 EH
+phn 1045 1125 83 b
+phn 1125 1205 71 AE
+phn 1205 1475 122 AW
+phn 1475 1595 25 n
+phn 1595 2085 5 x
+phn 2085 2185 73 w
+phn 2185 2465 124 AY
+phn 2465 2535 65 IH
+phn 2535 2565 58 n
+phn 2565 2625 65 IY
+phn 2625 2735 20 m
+phn 2735 2875 24 h
+phn 2875 3105 111 AO
+phn 3105 3175 28 r
+phn 3175 3265 73 t
+phn 3265 3395 84 AE
+phn 3395 3575 97 AW
+phn 3575 3605 65 IH
+phn 3605 3675 73 NG
+phn 3675 3725 62 l
+phn 3725 3765 64 t
+phn 3765 3835 68 IY
+phn 3835 4035 101 EH
+phn 4035 4065 65 r
+phn 4065 4095 65 l
+phn 4095 4155 35 m
+phn 4155 4955 10 x
+phn 4955 5005 0 p
+end_markers

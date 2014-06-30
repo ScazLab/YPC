@@ -1,0 +1,148 @@
+parenting_center_dialogue:
+  introduction_parenting_center:
+    type: dialogue
+    items: [hello, w, background_story, tickle, laugh, w, first_step, second_step, third_step, all_steps, got_right_question, more_practice, goodbye, yawn]
+  hello:
+    type: select
+    responses: [nice_to_meet_you]
+  w:
+    type: wait
+    phrase_ids: [blank_short_c100]
+  background_story:
+    type: question
+    phrase_ids: [chilly_bigintro_c100]
+    responses: [ok_cool_pat_my_fur]
+    terminal: [ok_cool_pat_my_fur]
+  tickle:
+    type: select
+    responses: [that_tickles, thats_ok]
+  laugh:
+    type: select
+    responses: [giggle, thats_ok]
+  between_steps1:
+    type: question
+    phrase_ids: [blank_short_c100]
+    responses: [blank_space, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise]
+    terminal: [blank_space]
+  between_steps2:
+    type: question
+    phrase_ids: [blank_short_c100]
+    responses: [blank_space*, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise]
+    terminal: [blank_space*]
+  first_step:
+    type: question
+    phrase_ids: [chilly_firststep_c100]
+    responses: [first_step_alone, first_step_together, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space]
+    terminal: [blank_space]
+  second_step:
+    type: question
+    phrase_ids: [chilly_readyfornextstep_c100]
+    responses: [second_step_alone, second_step_together, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space*]
+    terminal: [blank_space*]
+  third_step:
+    type: question
+    phrase_ids: [chilly_readyfornextstep_c100]
+    responses: [forgot_third_step, third_step_alone, third_step_together, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space*]
+    terminal: [blank_space*]
+  all_steps:
+    type: question
+    phrase_ids: [chilly_readyforallsteps_c100]
+    responses: [all_three_steps, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space*]
+    terminal: [blank_space*]
+  got_right_question:
+    type: question
+    phrase_ids: [chilly_didigetthemright_c100]
+    responses: [all_three_steps, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space*]
+    terminal: [blank_space*]
+  more_practice:
+    type: question
+    phrase_ids: [chilly_needmorepractice_c100]
+    responses: [last_time, didnt_hear_you, lets_get_back_to_the_steps, thanks_for_praise, talk_later, know_steps_well, be_gentle, wasnt_expecting, giggle, blank_space*]
+    terminal: [blank_space*]
+  goodbye:
+    type: select
+    responses: [yay_thanks]
+  yawn:
+    type: select
+    responses: [nap]
+  nice_to_meet_you:
+    type: statement
+    phrase_ids: [chilly_nicetomeetyou_c100]
+  ok_cool_pat_my_fur:
+    type: statement
+    phrase_ids: [chilly_patmyfur_c100]
+  that_tickles:
+    type: statement
+    phrase_ids: [chilly_thattickles_c500]
+  giggle:
+    type: statement
+    phrase_ids: [chilly_giggle_c500]
+  thats_ok:
+    type: statement
+    phrase_ids: [chilly_thatsok_c100]
+  first_step_alone:
+    type: statement
+    phrase_ids: [chilly_firststep_c100]
+  first_step_together:
+    type: statement
+    phrase_ids: [chilly_hereigofirststep_c100]
+  second_step_alone:
+    type: statement
+    phrase_ids: [chilly_secondstep_c100]
+  second_step_together:
+    type: statement
+    phrase_ids: [chilly_hereigosecondstep_c100]
+  third_step_alone:
+    type: statement
+    phrase_ids: [chilly_thirdstep_c100]
+  third_step_together:
+    type: statement
+    phrase_ids: [chilly_hereigothirdstep_c100]
+  forgot_third_step:
+    type: statement
+    phrase_ids: [chilly_forgotthirdstep_c100]
+  all_three_steps:
+    type: statement
+    phrase_ids: [chilly_hereigoallsteps_c100]
+  last_time:
+    type: statement
+    phrase_ids: [chilly_allstepslasttime_c100]
+  didnt_hear_you:
+    type: statement
+    phrase_ids: [chilly_didnthear_c100]
+  lets_get_back_to_the_steps:
+    type: statement
+    phrase_ids: [chilly_backtosteps_c100]
+  need_more_practice:
+    type: statement
+    phrase_ids: [chilly_needmorepractice_c100]
+  thanks_for_praise:
+    type: statement
+    phrase_ids: [chilly_thanksforpraise_c100]
+  yay_thanks:
+    type: statement
+    phrase_ids: [chilly_yaythanks_c100]
+  nap:
+    type: statement
+    phrase_ids: [chilly_takeanap_c100]
+  talk_later:
+    type: statement
+    phrase_ids: [chilly_talkaboutthatlater_c100]
+  know_steps_well:
+    type: statement
+    phrase_ids: [chilly_wowyouknowthesesteps_c100]
+  be_gentle:
+    type: statement
+    phrase_ids: [chilly_pleasebegentle_c100]
+  wasnt_expecting:
+    type: statement
+    phrase_ids: [chilly_wasntexpectingthat_c100]
+  blank_space:
+    type: statement
+    phrase_ids: [blank_short_c100]
+  blank_space*:
+    type: statement
+    phrase_ids: [blank_short_c100]  
+
+
+ 

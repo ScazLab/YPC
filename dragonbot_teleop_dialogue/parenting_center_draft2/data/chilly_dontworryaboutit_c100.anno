@@ -1,0 +1,33 @@
+version 1.2
+audio chilly_dontworryaboutit_c100.wav
+phn 5 845 25 m
+phn 845 965 40 x
+phn 965 995 94 t
+phn 995 1045 65 AY
+phn 1045 1145 75 AE
+phn 1145 1235 61 TH
+phn 1235 1375 86 AE
+phn 1375 1415 46 d
+phn 1415 1475 61 h
+phn 1475 1605 82 AE
+phn 1605 1775 91 EY
+phn 1775 1945 26 n
+phn 1945 2055 25 v
+phn 2055 2095 76 d
+phn 2095 2305 105 OW
+phn 2305 2365 86 l
+phn 2365 2455 74 AY
+phn 2455 2515 66 r
+phn 2515 2625 78 IY
+phn 2625 2695 67 EY
+phn 2695 2735 67 h
+phn 2735 2875 85 AW
+phn 2875 2905 65 AY
+phn 2905 2945 60 n
+phn 2945 3135 96 AE
+phn 3135 3185 30 NG
+phn 3185 3575 26 m
+phn 3575 3625 25 EH
+phn 3625 4005 25 m
+phn 4005 4505 0 p
+end_markers

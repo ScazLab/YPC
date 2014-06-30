@@ -1,0 +1,84 @@
+parenting_center_dialogue:
+  introduction_parenting_center:
+    type: dialogue
+    items: [hello, background_story, tickle, first_step, second_step, second_step, third_step, all_steps, got_right_question]
+  hello:
+    type: statement
+    phrase_ids: [chilly_nicetomeetyou_c100]
+  background_story:
+    type: question
+    phrase_ids: [chilly_bigintro_c100]
+    responses: [chilly_patmyfur_c100_state]
+    terminal: [chilly_patmyfur_c100_state]
+  tickle:
+    type: select
+    responses: [chilly_thattickles_c100_state]
+  first_step:
+    type: question
+    phrase_ids: [chilly_firststep_c100]
+    responses: [chilly_firststep_c100_state, chilly_didnthear_c100_state, chilly_backtosteps_c100_state, chilly_thanksforpraise_c100_state]
+    terminal: [chilly_firststep_c100_state]
+  second_step:
+    type: question
+    phrase_ids: [chilly_readyfornextstep_c100]
+    responses: [chilly_secondstep_c100_state_t, chilly_secondstep_c100_state_non_t, chilly_didnthear_c100_state, chilly_backtosteps_c100_state, chilly_thanksforpraise_c100_state]
+    terminal: [chilly_secondstep_c100_state_t]
+  third_step:
+    type: question
+    phrase_ids: [chilly_readyfornextstep_c100]
+    responses: [chilly_forgotthirdstep_c100_state, chilly_thirdstep_c100_state_t, chilly_thirdstep_c100_state_non_t, chilly_didnthear_c100_state, chilly_backtosteps_c100_state, chilly_thanksforpraise_c100_state]
+    terminal: [chilly_thirdstep_c100_state_t]
+  all_steps:
+    type: question
+    phrase_ids: [chilly_readyforallsteps_c100]
+    responses: [chilly_allthreesteps_c100_state_t, chilly_allthreesteps_c100_state_non_t, chilly_didnthear_c100_state, chilly_backtosteps_c100_state, chilly_thanksforpraise_c100_state]
+    terminal: [chilly_allthreesteps_c100_state_t]
+  got_right_question:
+    type: question
+    phrase_ids: [chilly_didigetthemright_c100]
+    responses: [chilly_yaythanks_c100_state, chilly_didnthear_c100_state]
+    terminal: [chilly_yaythanks_c100_state]
+  chilly_patmyfur_c100_state:
+    type: statement
+    phrase_ids: [chilly_patmyfur_c100]
+  chilly_thattickles_c100_state:
+    type: statement
+    phrase_ids: [chilly_thattickles_c100]
+  chilly_firststep_c100_state:
+    type: statement
+    phrase_ids: [chilly_firststep_c100]
+  chilly_secondstep_c100_state_t:
+    type: statement
+    phrase_ids: [chilly_secondstep_c100]
+  chilly_secondstep_c100_state_non_t:
+    type: statement
+    phrase_ids: [chilly_secondstep_c100]
+  chilly_thirdstep_c100_state_t:
+    type: statement
+    phrase_ids: [chilly_thirdstep_c100]
+  chilly_thirdstep_c100_state_non_t:
+    type: statement
+    phrase_ids: [chilly_thirdstep_c100]
+  chilly_forgotthirdstep_c100_state:
+    type: statement
+    phrase_ids: [chilly_forgotthirdstep_c100]
+  chilly_allthreesteps_c100_state_t:
+    type: statement
+    phrase_ids: [chilly_allthreesteps_c100]
+  chilly_allthreesteps_c100_state_non_t:
+    type: statement
+    phrase_ids: [chilly_allthreesteps_c100]
+  chilly_didnthear_c100_state:
+    type: statement
+    phrase_ids: [chilly_didnthear_c100]
+  chilly_backtosteps_c100_state:
+    type: statement
+    phrase_ids: [chilly_backtosteps_c100]
+  chilly_thanksforpraise_c100_state:
+    type: statement
+    phrase_ids: [chilly_thanksforpraise_c100]
+  chilly_yaythanks_c100_state:
+    type: statement
+    phrase_ids: [chilly_yaythanks_c100]
+
+ 

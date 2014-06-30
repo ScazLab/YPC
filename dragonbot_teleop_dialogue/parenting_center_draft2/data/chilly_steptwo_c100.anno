@@ -1,0 +1,25 @@
+version 1.2
+audio chilly_steptwo_c100.wav
+phn 5 645 31 m
+phn 645 775 50 t
+phn 775 905 84 IH
+phn 905 995 71 AE
+phn 995 1105 73 OW
+phn 1105 1165 52 l
+phn 1165 1705 31 m
+phn 1705 1835 79 UW
+phn 1835 1895 95 l
+phn 1895 2075 98 AA
+phn 2075 2225 93 l
+phn 2225 2355 82 EY
+phn 2355 2465 49 SH
+phn 2465 2705 113 EH
+phn 2705 2755 60 v
+phn 2755 2965 101 EH
+phn 2965 2995 54 m
+phn 2995 3075 65 IY
+phn 3075 3665 32 m
+phn 3665 3785 31 h
+phn 3785 3835 65 UW
+phn 3835 4005 0 p
+end_markers

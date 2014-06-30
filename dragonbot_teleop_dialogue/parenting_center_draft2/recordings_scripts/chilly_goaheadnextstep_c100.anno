@@ -1,0 +1,36 @@
+version 1.2
+audio chilly_goaheadnextstep_c100.wav
+phn 5 185 0 x
+phn 185 395 3 m
+phn 395 445 39 h
+phn 445 645 103 IH
+phn 645 685 47 n
+phn 685 775 68 IY
+phn 775 855 69 IH
+phn 855 885 73 n
+phn 885 1025 87 OW
+phn 1025 1095 67 AH
+phn 1095 1195 61 h
+phn 1195 1305 77 AY
+phn 1305 1385 70 IH
+phn 1385 1445 87 l
+phn 1445 1485 52 n
+phn 1485 1565 49 t
+phn 1565 1695 82 AH
+phn 1695 1725 65 r
+phn 1725 1835 77 IY
+phn 1835 1915 68 IH
+phn 1915 1955 78 l
+phn 1955 2105 86 AE
+phn 2105 2135 28 n
+phn 2135 2285 28 z
+phn 2285 2325 53 d
+phn 2325 2585 116 AE
+phn 2585 2685 6 m
+phn 2685 2745 5 h
+phn 2745 2785 6 UW
+phn 2785 3045 0 m
+phn 3045 3465 12 x
+phn 3465 3565 34 k
+phn 3565 4005 0 p
+end_markers

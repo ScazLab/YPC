@@ -1,0 +1,8 @@
+version 1.2
+audio blank_long_c100.wav
+phn 5 125 82 m
+phn 125 295 81 b
+phn 295 435 76 x
+phn 435 1055 84 n
+phn 1055 1505 26 p
+end_markers

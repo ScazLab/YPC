@@ -1,0 +1,20 @@
+version 1.2
+audio chilly_thattickles_c100.wav
+phn 5 845 0 x
+phn 845 895 69 b
+phn 895 985 71 OW
+phn 985 1185 97 AE
+phn 1185 1235 0 m
+phn 1235 1325 27 j
+phn 1325 1385 44 h
+phn 1385 1485 72 IH
+phn 1485 1535 14 m
+phn 1535 1585 47 g
+phn 1585 1855 119 AA
+phn 1855 1905 65 r
+phn 1905 2035 9 TH
+phn 2035 2705 0 x
+phn 2705 2765 21 d
+phn 2765 2835 0 x
+phn 2835 3005 0 p
+end_markers

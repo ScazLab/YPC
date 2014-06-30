@@ -1,0 +1,4 @@
+version 1.2
+audio blank_short_c100.wav
+phn 5 1005 72 x
+end_markers

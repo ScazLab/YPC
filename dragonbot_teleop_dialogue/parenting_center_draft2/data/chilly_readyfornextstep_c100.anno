@@ -1,0 +1,27 @@
+version 1.2
+audio chilly_readyfornextstep_c100.wav
+phn 5 685 0 m
+phn 685 735 82 t
+phn 735 855 81 EH
+phn 855 935 69 r
+phn 935 1095 92 AE
+phn 1095 1235 86 IY
+phn 1235 1335 45 h
+phn 1335 1485 89 AE
+phn 1485 1535 65 EH
+phn 1535 1585 73 l
+phn 1585 1625 82 n
+phn 1625 1755 84 EH
+phn 1755 1785 55 n
+phn 1785 1855 45 d
+phn 1855 1985 29 z
+phn 1985 2015 56 d
+phn 2015 2285 121 AE
+phn 2285 2395 15 m
+phn 2395 2705 11 h
+phn 2705 2765 6 AY
+phn 2765 3135 18 x
+phn 3135 3195 43 t
+phn 3195 3275 14 v
+phn 3275 3505 0 p
+end_markers

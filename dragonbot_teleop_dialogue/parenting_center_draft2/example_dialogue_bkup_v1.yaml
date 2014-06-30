@@ -1,0 +1,55 @@
+my_dialogue_parenting_center:
+  introduction_parenting_center:
+    type: dialogue
+    items: [hello, learn_steps, step_one, step_two, step_three, learn_first_two, learn_all_three, great_teacher, thanks]
+  hello:
+    type: statement
+    phrase_ids: [hi_chili, hi_im_chili]
+  learn_steps:
+    type: statement
+    phrase_ids: [cant_wait_learn]
+  step_one:
+    type: select
+    responses: [say_forgot]
+    terminal: [say_step_one]
+  step_two:
+    type: select
+    responses: [say_forgot]
+    terminal: [say_step_two]
+  step_three:
+    type: select
+    responses: [say_forgot]
+    terminal: [say_step_three]
+  learn_first_two:
+    type: question
+    phrase_ids: [id_love_to_practice_first_two]
+    responses: [say_forgot, say_one_two]
+    terminal: [say_one_two]
+  learn_all_three:
+    type: select
+    responses: [say_forgot, say_one_two_three]
+    terminal: [say_one_two_three]
+  say_forgot:
+    type: statement
+    phrase_ids: [i_forget]
+  say_step_one:
+    type: statement
+    phrase_ids: [one_what_could]
+  say_step_two:
+    type: statement
+    phrase_ids: [two_what_would_happen]
+  say_step_three:
+    type: statement
+    phrase_ids: [three_which_one]
+  great_teacher:
+    type: statement
+    phrase_ids: [great_teacher]
+  say_one_two:
+    type: statement
+    phrase_ids: [one_two]
+  say_one_two_three:
+    type: statement
+    phrase_ids: [one_two_three]
+  thanks:
+    type: statement
+    phrase_ids: [yay_thanks_for_helping]

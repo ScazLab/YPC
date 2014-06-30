@@ -1,0 +1,36 @@
+version 1.2
+audio chilly_hiimchilly_c100.wav
+phn 5 715 6 x
+phn 715 825 58 h
+phn 825 865 65 AY
+phn 865 1015 88 r
+phn 1015 1155 81 EY
+phn 1155 1205 16 n
+phn 1205 1245 56 g
+phn 1245 1375 83 AY
+phn 1375 1435 65 IH
+phn 1435 1485 27 n
+phn 1485 1645 60 SH
+phn 1645 1735 71 EH
+phn 1735 1795 65 r
+phn 1795 1925 79 IY
+phn 1925 1965 55 l
+phn 1965 2065 22 n
+phn 2065 2325 20 x
+phn 2325 2405 69 AE
+phn 2405 2575 92 IY
+phn 2575 2615 24 n
+phn 2615 2665 45 s
+phn 2665 2755 71 IH
+phn 2755 2785 65 r
+phn 2785 2905 79 IY
+phn 2905 3005 47 l
+phn 3005 3095 71 IY
+phn 3095 3225 78 EH
+phn 3225 3285 65 r
+phn 3285 3375 9 m
+phn 3375 4515 2 x
+phn 4515 4555 35 t
+phn 4555 4705 0 x
+phn 4705 5005 0 p
+end_markers

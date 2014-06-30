@@ -1,0 +1,2 @@
+for i in *.wav; do /home/dragonbot/Documents/Annosoft/SDK/bin/lipsync.exe -w "${i}" -out "${i%%.*}.anno" ; done
+

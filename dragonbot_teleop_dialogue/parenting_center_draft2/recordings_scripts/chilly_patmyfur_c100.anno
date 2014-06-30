@@ -1,0 +1,40 @@
+version 1.2
+audio chilly_patmyfur_c100.wav
+phn 5 25 0 m
+phn 25 595 0 x
+phn 595 645 86 t
+phn 645 765 82 EH
+phn 765 795 65 r
+phn 795 865 57 t
+phn 865 1105 112 EY
+phn 1105 1155 26 l
+phn 1155 1185 10 h
+phn 1185 1235 52 g
+phn 1235 1295 65 EH
+phn 1295 1355 99 l
+phn 1355 1405 65 EH
+phn 1405 1475 95 l
+phn 1475 1705 108 AW
+phn 1705 2025 6 m
+phn 2025 2065 53 t
+phn 2065 2205 87 IY
+phn 2205 2265 94 l
+phn 2265 2335 68 AO
+phn 2335 2405 67 AH
+phn 2405 2435 89 n
+phn 2435 2505 66 EH
+phn 2505 2545 36 n
+phn 2545 2615 53 h
+phn 2615 2775 91 AE
+phn 2775 2825 61 h
+phn 2825 2975 86 AY
+phn 2975 3135 16 h
+phn 3135 3375 113 EH
+phn 3375 3415 65 r
+phn 3415 3495 23 IH
+phn 3495 4515 0 x
+phn 4515 4565 43 d
+phn 4565 4595 8 IH
+phn 4595 4675 5 NG
+phn 4675 5005 0 p
+end_markers

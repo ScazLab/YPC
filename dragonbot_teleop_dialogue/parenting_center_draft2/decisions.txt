@@ -1,0 +1,11 @@
+- history in the beginning
+- animations in the beginning
+- the robot prompts each step
+
+- child sits down, chili does its thing
+- stop, therapist: let me show you how to teach the steps to the robot
+- this is great, i'm ready, can't wait to learn the steps!
+- the rest of the interaction
+
+- chili prompts the interaction in all cases
+

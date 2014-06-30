@@ -1,0 +1,42 @@
+version 1.2
+audio chilly_notsuchagreatday_c100.wav
+phn 5 765 0 x
+phn 765 795 0 DH
+phn 795 835 4 IH
+phn 835 865 14 n
+phn 865 1075 103 IY
+phn 1075 1145 59 l
+phn 1145 1245 71 EH
+phn 1245 1325 43 t
+phn 1325 1395 65 IH
+phn 1395 1605 106 EH
+phn 1605 1645 47 l
+phn 1645 1675 36 h
+phn 1675 1715 64 l
+phn 1715 1895 94 AE
+phn 1895 1935 24 r
+phn 1935 2035 20 z
+phn 2035 2105 46 TH
+phn 2105 2235 82 EH
+phn 2235 2295 49 z
+phn 2295 2355 65 IH
+phn 2355 2395 41 NG
+phn 2395 2425 49 g
+phn 2425 2615 96 EY
+phn 2615 2655 32 n
+phn 2655 2685 55 d
+phn 2685 2885 99 EY
+phn 2885 3005 43 t
+phn 3005 3065 65 AO
+phn 3065 3105 73 l
+phn 3105 3245 83 AE
+phn 3245 3345 61 n
+phn 3345 3395 65 IH
+phn 3395 3535 28 z
+phn 3535 3575 36 d
+phn 3575 3755 93 AE
+phn 3755 3835 6 n
+phn 3835 3985 17 z
+phn 3985 5585 0 x
+phn 5585 6005 0 p
+end_markers

@@ -1,0 +1,41 @@
+version 1.2
+audio chilly_hereigostepone_c100.wav
+phn 5 805 15 m
+phn 805 965 24 h
+phn 965 1055 70 IY
+phn 1055 1145 71 ER
+phn 1145 1255 76 AY
+phn 1255 1295 65 IH
+phn 1295 1325 52 NG
+phn 1325 1365 53 d
+phn 1365 1715 139 OW
+phn 1715 1755 65 r
+phn 1755 2325 17 m
+phn 2325 2435 19 h
+phn 2435 2565 79 UW
+phn 2565 2625 65 w
+phn 2625 2815 98 AA
+phn 2815 2895 65 EY
+phn 2895 2995 42 n
+phn 2995 3045 65 IY
+phn 3045 3785 243 UW
+phn 3785 3815 27 h
+phn 3815 3885 27 m
+phn 3885 3945 65 EH
+phn 3945 3985 37 h
+phn 3985 4135 84 AE
+phn 4135 4205 65 EH
+phn 4205 4285 20 n
+phn 4285 4325 39 d
+phn 4325 4695 144 AY
+phn 4695 4745 65 IH
+phn 4745 4875 51 m
+phn 4875 4935 47 g
+phn 4935 5095 88 IH
+phn 5095 5195 70 AE
+phn 5195 5325 74 OW
+phn 5325 5575 18 m
+phn 5575 5825 18 x
+phn 5825 6325 17 m
+phn 6325 6505 0 p
+end_markers

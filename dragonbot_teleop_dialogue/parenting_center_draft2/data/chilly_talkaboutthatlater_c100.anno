@@ -1,0 +1,43 @@
+version 1.2
+audio chilly_talkaboutthatlater_c100.wav
+phn 5 355 12 x
+phn 355 475 59 h
+phn 475 685 106 AO
+phn 685 855 90 r
+phn 855 925 18 n
+phn 925 1085 16 x
+phn 1085 1185 59 p
+phn 1185 1305 82 EH
+phn 1305 1345 20 NG
+phn 1345 1505 71 TH
+phn 1505 1615 78 AH
+phn 1615 1695 59 d
+phn 1695 1725 65 AH
+phn 1725 1795 85 DH
+phn 1795 1955 92 AE
+phn 1955 2005 54 n
+phn 2005 2045 83 b
+phn 2045 2275 110 AW
+phn 2275 2335 65 w
+phn 2335 2385 65 AY
+phn 2385 2475 93 l
+phn 2475 2735 118 AA
+phn 2735 2785 66 l
+phn 2785 2815 28 v
+phn 2815 2885 63 d
+phn 2885 2995 78 AA
+phn 2995 3115 93 l
+phn 3115 3155 65 IH
+phn 3155 3225 38 t
+phn 3225 3265 42 d
+phn 3265 3325 65 IH
+phn 3325 3365 35 z
+phn 3365 3475 29 TH
+phn 3475 3545 65 AO
+phn 3545 3685 83 AE
+phn 3685 3775 13 n
+phn 3775 3925 25 z
+phn 3925 4995 0 x
+phn 4995 5075 20 m
+phn 5075 5505 0 p
+end_markers

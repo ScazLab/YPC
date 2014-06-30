@@ -1,0 +1,32 @@
+version 1.2
+audio chilly_wowyouknowthesesteps_c100.wav
+phn 5 455 9 x
+phn 455 495 65 w
+phn 495 585 92 l
+phn 585 635 65 w
+phn 635 715 71 EH
+phn 715 765 65 r
+phn 765 1015 116 AW
+phn 1015 1185 8 n
+phn 1185 1265 11 x
+phn 1265 1315 41 h
+phn 1315 1375 66 IY
+phn 1375 1605 111 IH
+phn 1605 1715 79 EH
+phn 1715 1755 79 n
+phn 1755 1895 86 IY
+phn 1895 1995 35 f
+phn 1995 2035 36 s
+phn 2035 2075 69 d
+phn 2075 2225 90 AE
+phn 2225 2265 36 n
+phn 2265 2475 39 s
+phn 2475 2735 119 EH
+phn 2735 2835 100 l
+phn 2835 2925 73 OW
+phn 2925 3165 113 AW
+phn 3165 3215 38 t
+phn 3215 3285 12 m
+phn 3285 4135 9 x
+phn 4135 4505 0 p
+end_markers

@@ -1,0 +1,26 @@
+version 1.2
+audio chilly_giggle_c500.wav
+phn 5 165 0 x
+phn 165 235 40 k
+phn 235 285 65 EH
+phn 285 325 33 h
+phn 325 585 113 AE
+phn 585 665 65 EH
+phn 665 695 48 k
+phn 695 795 67 IY
+phn 795 885 0 n
+phn 885 1515 0 x
+phn 1515 1565 65 b
+phn 1565 1685 79 OW
+phn 1685 1845 90 AE
+phn 1845 1925 14 n
+phn 1925 2015 15 x
+phn 2015 2095 45 SH
+phn 2095 2215 80 IH
+phn 2215 2285 37 NG
+phn 2285 2315 49 d
+phn 2315 2475 90 AA
+phn 2475 2635 87 AW
+phn 2635 2815 11 z
+phn 2815 3215 0 x
+end_markers

@@ -1,0 +1,32 @@
+version 1.2
+audio chilly_wasntexpectingthat_c100.wav
+phn 5 285 0 x
+phn 285 525 3 n
+phn 525 595 84 t
+phn 595 775 98 AE
+phn 775 985 103 AW
+phn 985 1065 12 m
+phn 1065 1255 58 x
+phn 1255 1365 79 EH
+phn 1365 1395 100 l
+phn 1395 1525 84 AH
+phn 1525 1585 77 g
+phn 1585 1645 66 EY
+phn 1645 1675 100 n
+phn 1675 1755 70 EY
+phn 1755 1815 47 d
+phn 1815 1895 19 z
+phn 1895 1965 84 b
+phn 1965 2055 73 EH
+phn 2055 2125 25 n
+phn 2125 2165 66 d
+phn 2165 2215 65 IY
+phn 2215 2325 78 AH
+phn 2325 2375 75 DH
+phn 2375 2675 129 AE
+phn 2675 2725 35 n
+phn 2725 2805 15 v
+phn 2805 2935 19 m
+phn 2935 3545 6 x
+phn 3545 4005 0 p
+end_markers

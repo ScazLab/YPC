@@ -1,0 +1,29 @@
+version 1.2
+audio chilly_stepthree_c100.wav
+phn 5 155 22 m
+phn 155 635 20 h
+phn 635 745 21 UW
+phn 745 795 69 h
+phn 795 1205 158 EY
+phn 1205 1575 24 h
+phn 1575 1865 22 m
+phn 1865 1905 65 EH
+phn 1905 2035 94 l
+phn 2035 2155 82 AY
+phn 2155 2205 52 n
+phn 2205 2335 65 SH
+phn 2335 2435 76 EH
+phn 2435 2845 158 AE
+phn 2845 2895 41 n
+phn 2895 3055 68 SH
+phn 3055 3145 74 IY
+phn 3145 3415 120 IH
+phn 3415 3555 34 z
+phn 3555 3605 24 h
+phn 3605 3915 21 UW
+phn 3915 4115 20 m
+phn 4115 4185 19 h
+phn 4185 4245 20 UW
+phn 4245 4355 33 m
+phn 4355 4505 0 p
+end_markers

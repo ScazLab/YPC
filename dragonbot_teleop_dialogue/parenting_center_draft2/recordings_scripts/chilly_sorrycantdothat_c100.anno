@@ -1,0 +1,35 @@
+version 1.2
+audio chilly_sorrycantdothat_c100.wav
+phn 5 235 8 x
+phn 235 765 10 m
+phn 765 805 61 g
+phn 805 975 94 AW
+phn 975 1025 89 l
+phn 1025 1095 67 AY
+phn 1095 1225 81 IH
+phn 1225 1325 22 z
+phn 1325 1385 49 f
+phn 1385 1515 81 AA
+phn 1515 1625 76 r
+phn 1625 1805 93 EY
+phn 1805 1935 22 n
+phn 1935 2185 7 x
+phn 2185 2235 50 h
+phn 2235 2335 73 EH
+phn 2335 2375 33 n
+phn 2375 2435 45 t
+phn 2435 2495 84 l
+phn 2495 2595 73 AE
+phn 2595 2665 40 NG
+phn 2665 2755 46 n
+phn 2755 2855 73 IY
+phn 2855 2905 65 IH
+phn 2905 2955 56 n
+phn 2955 3075 78 AE
+phn 3075 3195 76 AA
+phn 3195 3295 12 n
+phn 3295 3325 10 IH
+phn 3325 3365 6 n
+phn 3365 4195 9 x
+phn 4195 4505 0 p
+end_markers

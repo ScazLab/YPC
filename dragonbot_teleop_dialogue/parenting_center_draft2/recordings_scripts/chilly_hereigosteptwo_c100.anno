@@ -1,0 +1,35 @@
+version 1.2
+audio chilly_hereigosteptwo_c100.wav
+phn 5 655 4 x
+phn 655 875 26 h
+phn 875 935 65 IY
+phn 935 1025 71 ER
+phn 1025 1175 86 AY
+phn 1175 1245 51 n
+phn 1245 1605 142 OW
+phn 1605 1765 10 m
+phn 1765 2595 3 x
+phn 2595 2665 34 t
+phn 2665 2715 65 y
+phn 2715 2955 111 IH
+phn 2955 2985 65 r
+phn 2985 3125 79 OW
+phn 3125 3165 26 v
+phn 3165 3555 7 m
+phn 3555 3665 6 x
+phn 3665 3725 29 h
+phn 3725 3855 78 UW
+phn 3855 3945 87 l
+phn 3945 4105 90 AW
+phn 4105 4215 69 l
+phn 4215 4305 69 EY
+phn 4305 4335 53 n
+phn 4335 4395 65 IY
+phn 4395 4495 42 h
+phn 4495 4705 103 AW
+phn 4705 4775 33 v
+phn 4775 4975 96 EH
+phn 4975 5225 37 n
+phn 5225 5805 6 x
+phn 5805 6005 0 p
+end_markers

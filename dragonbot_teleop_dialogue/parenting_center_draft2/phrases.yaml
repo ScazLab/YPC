@@ -1,0 +1,6498 @@
+# Auto-generated phrase file for the dragonbot
+# Generated from file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/list.txt
+
+blank_short_c100:
+  actions:
+  - end: 1.005
+    id: IDLE
+    start: 0.005
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/blank_short_c100.wav
+  text: <blank_short_c100 missing text>
+chilly_allstepslasttime_c100:
+  actions:
+  - end: 0.075
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.285
+    id: IDLE
+    start: 0.075
+    type: viseme
+  - end: 0.735
+    id: M_B_P
+    start: 0.285
+    type: viseme
+  - end: 0.785
+    id: N_NG_D_Z
+    start: 0.735
+    type: viseme
+  - end: 0.895
+    id: EH_AE_AY
+    start: 0.785
+    type: viseme
+  - end: 0.945
+    id: R_ER
+    start: 0.895
+    type: viseme
+  - end: 0.995
+    id: N_NG_D_Z
+    start: 0.945
+    type: viseme
+  - end: 1.055
+    id: AA_AH
+    start: 0.995
+    type: viseme
+  - end: 1.135
+    id: EH_AE_AY
+    start: 1.055
+    type: viseme
+  - end: 1.265
+    id: EY
+    start: 1.135
+    type: viseme
+  - end: 1.335
+    id: AA_AH
+    start: 1.265
+    type: viseme
+  - end: 1.375
+    id: EH_AE_AY
+    start: 1.335
+    type: viseme
+  - end: 1.475
+    id: M_B_P
+    start: 1.375
+    type: viseme
+  - end: 1.565
+    id: IDLE
+    start: 1.475
+    type: viseme
+  - end: 1.655
+    id: EH_AE_AY
+    start: 1.565
+    type: viseme
+  - end: 1.795
+    id: L
+    start: 1.655
+    type: viseme
+  - end: 1.875
+    id: EY
+    start: 1.795
+    type: viseme
+  - end: 2.075
+    id: EH_AE_AY
+    start: 1.875
+    type: viseme
+  - end: 2.115
+    id: N_NG_D_Z
+    start: 2.075
+    type: viseme
+  - end: 2.215
+    id: CH_SH_ZH
+    start: 2.115
+    type: viseme
+  - end: 2.345
+    id: EH_AE_AY
+    start: 2.215
+    type: viseme
+  - end: 2.465
+    id: EY
+    start: 2.345
+    type: viseme
+  - end: 2.495
+    id: L
+    start: 2.465
+    type: viseme
+  - end: 2.535
+    id: N_NG_D_Z
+    start: 2.495
+    type: viseme
+  - end: 2.735
+    id: EH_AE_AY
+    start: 2.535
+    type: viseme
+  - end: 2.845
+    id: N_NG_D_Z
+    start: 2.735
+    type: viseme
+  - end: 2.885
+    id: EH_AE_AY
+    start: 2.845
+    type: viseme
+  - end: 3.275
+    id: M_B_P
+    start: 2.885
+    type: viseme
+  - end: 3.355
+    id: AA_AH
+    start: 3.275
+    type: viseme
+  - end: 3.415
+    id: EH_AE_AY
+    start: 3.355
+    type: viseme
+  - end: 3.595
+    id: EH_AE_AY
+    start: 3.415
+    type: viseme
+  - end: 3.635
+    id: N_NG_D_Z
+    start: 3.595
+    type: viseme
+  - end: 3.675
+    id: N_NG_D_Z
+    start: 3.635
+    type: viseme
+  - end: 3.995
+    id: AO_AW
+    start: 3.675
+    type: viseme
+  - end: 4.135
+    id: N_NG_D_Z
+    start: 3.995
+    type: viseme
+  - end: 4.375
+    id: IDLE
+    start: 4.135
+    type: viseme
+  - end: 4.625
+    id: M_B_P
+    start: 4.375
+    type: viseme
+  - end: 4.685
+    id: M_B_P
+    start: 4.625
+    type: viseme
+  - end: 4.775
+    id: L
+    start: 4.685
+    type: viseme
+  - end: 4.845
+    id: AO_AW
+    start: 4.775
+    type: viseme
+  - end: 5.075
+    id: EH_AE_AY
+    start: 4.845
+    type: viseme
+  - end: 5.145
+    id: EH_AE_AY
+    start: 5.075
+    type: viseme
+  - end: 5.235
+    id: N_NG_D_Z
+    start: 5.145
+    type: viseme
+  - end: 5.925
+    id: N_NG_D_Z
+    start: 5.235
+    type: viseme
+  - end: 6.045
+    id: AO_AW
+    start: 5.925
+    type: viseme
+  - end: 6.135
+    id: EY
+    start: 6.045
+    type: viseme
+  - end: 6.215
+    id: N_NG_D_Z
+    start: 6.135
+    type: viseme
+  - end: 6.255
+    id: N_NG_D_Z
+    start: 6.215
+    type: viseme
+  - end: 6.395
+    id: EH_AE_AY
+    start: 6.255
+    type: viseme
+  - end: 6.565
+    id: AO_AW
+    start: 6.395
+    type: viseme
+  - end: 7.195
+    id: N_NG_D_Z
+    start: 6.565
+    type: viseme
+  - end: 7.315
+    id: N_NG_D_Z
+    start: 7.195
+    type: viseme
+  - end: 7.505
+    id: EH_AE_AY
+    start: 7.315
+    type: viseme
+  - end: 7.645
+    id: L
+    start: 7.505
+    type: viseme
+  - end: 7.995
+    id: M_B_P
+    start: 7.645
+    type: viseme
+  - end: 8.045
+    id: M_B_P
+    start: 7.995
+    type: viseme
+  - end: 8.085
+    id: L
+    start: 8.045
+    type: viseme
+  - end: 8.185
+    id: EH_AE_AY
+    start: 8.085
+    type: viseme
+  - end: 8.285
+    id: L
+    start: 8.185
+    type: viseme
+  - end: 8.345
+    id: EY
+    start: 8.285
+    type: viseme
+  - end: 8.465
+    id: AA_AH
+    start: 8.345
+    type: viseme
+  - end: 8.585
+    id: EH_AE_AY
+    start: 8.465
+    type: viseme
+  - end: 8.675
+    id: M_B_P
+    start: 8.585
+    type: viseme
+  - end: 8.815
+    id: EH_AE_AY
+    start: 8.675
+    type: viseme
+  - end: 8.855
+    id: N_NG_D_Z
+    start: 8.815
+    type: viseme
+  - end: 8.925
+    id: EY
+    start: 8.855
+    type: viseme
+  - end: 9.085
+    id: M_B_P
+    start: 8.925
+    type: viseme
+  - end: 9.305
+    id: IDLE
+    start: 9.085
+    type: viseme
+  - end: 9.365
+    id: M_B_P
+    start: 9.305
+    type: viseme
+  - end: 9.445
+    id: M_B_P
+    start: 9.365
+    type: viseme
+  - end: 9.585
+    id: M_B_P
+    start: 9.445
+    type: viseme
+  - end: 9.625
+    id: IDLE
+    start: 9.585
+    type: viseme
+  - end: 9.665
+    id: N_NG_D_Z
+    start: 9.625
+    type: viseme
+  - end: 9.835
+    id: EY
+    start: 9.665
+    type: viseme
+  - end: 10.065
+    id: EY
+    start: 9.835
+    type: viseme
+  - end: 10.165
+    id: N_NG_D_Z
+    start: 10.065
+    type: viseme
+  - end: 10.405
+    id: IDLE
+    start: 10.165
+    type: viseme
+  - end: 10.455
+    id: CH_SH_ZH
+    start: 10.405
+    type: viseme
+  - end: 10.635
+    id: EH_AE_AY
+    start: 10.455
+    type: viseme
+  - end: 10.765
+    id: N_NG_D_Z
+    start: 10.635
+    type: viseme
+  - end: 10.845
+    id: EY
+    start: 10.765
+    type: viseme
+  - end: 11.055
+    id: EH_AE_AY
+    start: 10.845
+    type: viseme
+  - end: 11.095
+    id: N_NG_D_Z
+    start: 11.055
+    type: viseme
+  - end: 11.215
+    id: CH_SH_ZH
+    start: 11.095
+    type: viseme
+  - end: 11.335
+    id: EY
+    start: 11.215
+    type: viseme
+  - end: 11.475
+    id: EH_AE_AY
+    start: 11.335
+    type: viseme
+  - end: 11.615
+    id: N_NG_D_Z
+    start: 11.475
+    type: viseme
+  - end: 11.725
+    id: M_B_P
+    start: 11.615
+    type: viseme
+  - end: 11.765
+    id: N_NG_D_Z
+    start: 11.725
+    type: viseme
+  - end: 11.905
+    id: AA_AH
+    start: 11.765
+    type: viseme
+  - end: 11.935
+    id: EH_AE_AY
+    start: 11.905
+    type: viseme
+  - end: 11.975
+    id: M_B_P
+    start: 11.935
+    type: viseme
+  - end: 12.065
+    id: IDLE
+    start: 11.975
+    type: viseme
+  - end: 12.105
+    id: N_NG_D_Z
+    start: 12.065
+    type: viseme
+  - end: 12.225
+    id: EY
+    start: 12.105
+    type: viseme
+  - end: 12.265
+    id: N_NG_D_Z
+    start: 12.225
+    type: viseme
+  - end: 12.405
+    id: EH_AE_AY
+    start: 12.265
+    type: viseme
+  - end: 12.625
+    id: EH_AE_AY
+    start: 12.405
+    type: viseme
+  - end: 12.705
+    id: N_NG_D_Z
+    start: 12.625
+    type: viseme
+  - end: 12.765
+    id: N_NG_D_Z
+    start: 12.705
+    type: viseme
+  - end: 13.175
+    id: N_NG_D_Z
+    start: 12.765
+    type: viseme
+  - end: 13.495
+    id: IDLE
+    start: 13.175
+    type: viseme
+  - end: 13.775
+    id: M_B_P
+    start: 13.495
+    type: viseme
+  - end: 13.825
+    id: EY
+    start: 13.775
+    type: viseme
+  - end: 14.005
+    id: IDLE
+    start: 13.825
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_allstepslasttime_c100.wav
+  text: <chilly_allstepslasttime_c100 missing text>
+chilly_allthreesteps_c100:
+  actions:
+  - end: 0.285
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.875
+    id: AA_AH
+    start: 0.285
+    type: viseme
+  - end: 0.935
+    id: AO_AW
+    start: 0.875
+    type: viseme
+  - end: 1.015
+    id: L
+    start: 0.935
+    type: viseme
+  - end: 1.195
+    id: AA_AH
+    start: 1.015
+    type: viseme
+  - end: 1.235
+    id: AA_AH
+    start: 1.195
+    type: viseme
+  - end: 1.345
+    id: EY
+    start: 1.235
+    type: viseme
+  - end: 1.435
+    id: EH_AE_AY
+    start: 1.345
+    type: viseme
+  - end: 1.555
+    id: M_B_P
+    start: 1.435
+    type: viseme
+  - end: 1.795
+    id: AA_AH
+    start: 1.555
+    type: viseme
+  - end: 1.855
+    id: AO_AW
+    start: 1.795
+    type: viseme
+  - end: 1.905
+    id: L
+    start: 1.855
+    type: viseme
+  - end: 2.105
+    id: EH_AE_AY
+    start: 1.905
+    type: viseme
+  - end: 2.195
+    id: N_NG_D_Z
+    start: 2.105
+    type: viseme
+  - end: 2.325
+    id: EH_AE_AY
+    start: 2.195
+    type: viseme
+  - end: 2.365
+    id: N_NG_D_Z
+    start: 2.325
+    type: viseme
+  - end: 2.535
+    id: EH_AE_AY
+    start: 2.365
+    type: viseme
+  - end: 2.605
+    id: EY
+    start: 2.535
+    type: viseme
+  - end: 2.685
+    id: L
+    start: 2.605
+    type: viseme
+  - end: 2.745
+    id: N_NG_D_Z
+    start: 2.685
+    type: viseme
+  - end: 2.925
+    id: EH_AE_AY
+    start: 2.745
+    type: viseme
+  - end: 3.105
+    id: AO_AW
+    start: 2.925
+    type: viseme
+  - end: 3.715
+    id: M_B_P
+    start: 3.105
+    type: viseme
+  - end: 3.865
+    id: IDLE
+    start: 3.715
+    type: viseme
+  - end: 3.975
+    id: N_NG_D_Z
+    start: 3.865
+    type: viseme
+  - end: 4.195
+    id: EH_AE_AY
+    start: 3.975
+    type: viseme
+  - end: 4.265
+    id: L
+    start: 4.195
+    type: viseme
+  - end: 4.315
+    id: M_B_P
+    start: 4.265
+    type: viseme
+  - end: 4.815
+    id: AA_AH
+    start: 4.315
+    type: viseme
+  - end: 4.945
+    id: AO_AW
+    start: 4.815
+    type: viseme
+  - end: 5.035
+    id: L
+    start: 4.945
+    type: viseme
+  - end: 5.095
+    id: EH_AE_AY
+    start: 5.035
+    type: viseme
+  - end: 5.215
+    id: AA_AH
+    start: 5.095
+    type: viseme
+  - end: 5.345
+    id: AO_AW
+    start: 5.215
+    type: viseme
+  - end: 5.415
+    id: R_ER
+    start: 5.345
+    type: viseme
+  - end: 5.655
+    id: EY
+    start: 5.415
+    type: viseme
+  - end: 5.695
+    id: M_B_P
+    start: 5.655
+    type: viseme
+  - end: 5.955
+    id: M_B_P
+    start: 5.695
+    type: viseme
+  - end: 6.005
+    id: EH_AE_AY
+    start: 5.955
+    type: viseme
+  - end: 6.065
+    id: N_NG_D_Z
+    start: 6.005
+    type: viseme
+  - end: 6.315
+    id: M_B_P
+    start: 6.065
+    type: viseme
+  - end: 6.375
+    id: N_NG_D_Z
+    start: 6.315
+    type: viseme
+  - end: 6.455
+    id: R_ER
+    start: 6.375
+    type: viseme
+  - end: 6.785
+    id: EY
+    start: 6.455
+    type: viseme
+  - end: 7.155
+    id: M_B_P
+    start: 6.785
+    type: viseme
+  - end: 7.305
+    id: AA_AH
+    start: 7.155
+    type: viseme
+  - end: 7.485
+    id: EH_AE_AY
+    start: 7.305
+    type: viseme
+  - end: 7.615
+    id: CH_SH_ZH
+    start: 7.485
+    type: viseme
+  - end: 7.675
+    id: EY
+    start: 7.615
+    type: viseme
+  - end: 7.715
+    id: AA_AH
+    start: 7.675
+    type: viseme
+  - end: 7.805
+    id: AO_AW
+    start: 7.715
+    type: viseme
+  - end: 7.935
+    id: EH_AE_AY
+    start: 7.805
+    type: viseme
+  - end: 8.025
+    id: L
+    start: 7.935
+    type: viseme
+  - end: 8.175
+    id: CH_SH_ZH
+    start: 8.025
+    type: viseme
+  - end: 8.445
+    id: EH_AE_AY
+    start: 8.175
+    type: viseme
+  - end: 8.585
+    id: N_NG_D_Z
+    start: 8.445
+    type: viseme
+  - end: 9.285
+    id: AA_AH
+    start: 8.585
+    type: viseme
+  - end: 9.315
+    id: AO_AW
+    start: 9.285
+    type: viseme
+  - end: 9.505
+    id: EY
+    start: 9.315
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_allthreesteps_c100.wav
+  text: <chilly_allthreesteps_c100 missing text>
+chilly_backtosteps_c100:
+  actions:
+  - end: 0.735
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.945
+    id: AA_AH
+    start: 0.735
+    type: viseme
+  - end: 0.995
+    id: CH_SH_ZH
+    start: 0.945
+    type: viseme
+  - end: 1.105
+    id: AA_AH
+    start: 0.995
+    type: viseme
+  - end: 1.175
+    id: L
+    start: 1.105
+    type: viseme
+  - end: 1.315
+    id: EH_AE_AY
+    start: 1.175
+    type: viseme
+  - end: 1.385
+    id: M_B_P
+    start: 1.315
+    type: viseme
+  - end: 1.635
+    id: AA_AH
+    start: 1.385
+    type: viseme
+  - end: 1.705
+    id: AA_AH
+    start: 1.635
+    type: viseme
+  - end: 1.755
+    id: N_NG_D_Z
+    start: 1.705
+    type: viseme
+  - end: 1.815
+    id: AA_AH
+    start: 1.755
+    type: viseme
+  - end: 1.845
+    id: L
+    start: 1.815
+    type: viseme
+  - end: 1.895
+    id: AA_AH
+    start: 1.845
+    type: viseme
+  - end: 2.085
+    id: AO_AW
+    start: 1.895
+    type: viseme
+  - end: 2.175
+    id: EY
+    start: 2.085
+    type: viseme
+  - end: 2.245
+    id: N_NG_D_Z
+    start: 2.175
+    type: viseme
+  - end: 2.325
+    id: EH_AE_AY
+    start: 2.245
+    type: viseme
+  - end: 2.395
+    id: N_NG_D_Z
+    start: 2.325
+    type: viseme
+  - end: 2.635
+    id: EH_AE_AY
+    start: 2.395
+    type: viseme
+  - end: 2.725
+    id: N_NG_D_Z
+    start: 2.635
+    type: viseme
+  - end: 2.875
+    id: EH_AE_AY
+    start: 2.725
+    type: viseme
+  - end: 3.025
+    id: N_NG_D_Z
+    start: 2.875
+    type: viseme
+  - end: 3.065
+    id: N_NG_D_Z
+    start: 3.025
+    type: viseme
+  - end: 3.295
+    id: EH_AE_AY
+    start: 3.065
+    type: viseme
+  - end: 3.335
+    id: N_NG_D_Z
+    start: 3.295
+    type: viseme
+  - end: 3.525
+    id: N_NG_D_Z
+    start: 3.335
+    type: viseme
+  - end: 4.325
+    id: IDLE
+    start: 3.525
+    type: viseme
+  - end: 4.425
+    id: N_NG_D_Z
+    start: 4.325
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.425
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_backtosteps_c100.wav
+  text: <chilly_backtosteps_c100 missing text>
+chilly_cayennepatmyfur_c100:
+  actions:
+  - end: 0.605
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.805
+    id: IDLE
+    start: 0.605
+    type: viseme
+  - end: 0.955
+    id: EH_AE_AY
+    start: 0.805
+    type: viseme
+  - end: 1.085
+    id: AO_AW
+    start: 0.955
+    type: viseme
+  - end: 1.125
+    id: R_ER
+    start: 1.085
+    type: viseme
+  - end: 1.165
+    id: AO_AW
+    start: 1.125
+    type: viseme
+  - end: 1.195
+    id: N_NG_D_Z
+    start: 1.165
+    type: viseme
+  - end: 1.225
+    id: R_ER
+    start: 1.195
+    type: viseme
+  - end: 1.275
+    id: AA_AH
+    start: 1.225
+    type: viseme
+  - end: 1.375
+    id: L
+    start: 1.275
+    type: viseme
+  - end: 1.625
+    id: AO_AW
+    start: 1.375
+    type: viseme
+  - end: 1.735
+    id: M_B_P
+    start: 1.625
+    type: viseme
+  - end: 2.195
+    id: AA_AH
+    start: 1.735
+    type: viseme
+  - end: 2.285
+    id: EH_AE_AY
+    start: 2.195
+    type: viseme
+  - end: 2.385
+    id: EY
+    start: 2.285
+    type: viseme
+  - end: 2.435
+    id: N_NG_D_Z
+    start: 2.385
+    type: viseme
+  - end: 2.495
+    id: AA_AH
+    start: 2.435
+    type: viseme
+  - end: 2.715
+    id: EH_AE_AY
+    start: 2.495
+    type: viseme
+  - end: 2.835
+    id: EY
+    start: 2.715
+    type: viseme
+  - end: 2.875
+    id: AA_AH
+    start: 2.835
+    type: viseme
+  - end: 2.985
+    id: EH_AE_AY
+    start: 2.875
+    type: viseme
+  - end: 3.045
+    id: EY
+    start: 2.985
+    type: viseme
+  - end: 3.115
+    id: L
+    start: 3.045
+    type: viseme
+  - end: 3.155
+    id: M_B_P
+    start: 3.115
+    type: viseme
+  - end: 3.275
+    id: EY
+    start: 3.155
+    type: viseme
+  - end: 3.365
+    id: AO_AW
+    start: 3.275
+    type: viseme
+  - end: 3.395
+    id: N_NG_D_Z
+    start: 3.365
+    type: viseme
+  - end: 3.505
+    id: EH_AE_AY
+    start: 3.395
+    type: viseme
+  - end: 3.605
+    id: AO_AW
+    start: 3.505
+    type: viseme
+  - end: 3.675
+    id: L
+    start: 3.605
+    type: viseme
+  - end: 3.875
+    id: AA_AH
+    start: 3.675
+    type: viseme
+  - end: 3.945
+    id: AO_AW
+    start: 3.875
+    type: viseme
+  - end: 4.065
+    id: M_B_P
+    start: 3.945
+    type: viseme
+  - end: 4.115
+    id: N_NG_D_Z
+    start: 4.065
+    type: viseme
+  - end: 4.225
+    id: EH_AE_AY
+    start: 4.115
+    type: viseme
+  - end: 4.295
+    id: L
+    start: 4.225
+    type: viseme
+  - end: 4.365
+    id: EH_AE_AY
+    start: 4.295
+    type: viseme
+  - end: 4.405
+    id: R_ER
+    start: 4.365
+    type: viseme
+  - end: 4.515
+    id: EY
+    start: 4.405
+    type: viseme
+  - end: 4.575
+    id: L
+    start: 4.515
+    type: viseme
+  - end: 4.685
+    id: EH_AE_AY
+    start: 4.575
+    type: viseme
+  - end: 4.725
+    id: EH_AE_AY
+    start: 4.685
+    type: viseme
+  - end: 4.775
+    id: N_NG_D_Z
+    start: 4.725
+    type: viseme
+  - end: 4.865
+    id: EY
+    start: 4.775
+    type: viseme
+  - end: 4.925
+    id: L
+    start: 4.865
+    type: viseme
+  - end: 4.995
+    id: EH_AE_AY
+    start: 4.925
+    type: viseme
+  - end: 5.035
+    id: N_NG_D_Z
+    start: 4.995
+    type: viseme
+  - end: 5.115
+    id: CH_SH_ZH
+    start: 5.035
+    type: viseme
+  - end: 5.175
+    id: EY
+    start: 5.115
+    type: viseme
+  - end: 5.235
+    id: AA_AH
+    start: 5.175
+    type: viseme
+  - end: 5.475
+    id: AO_AW
+    start: 5.235
+    type: viseme
+  - end: 5.585
+    id: N_NG_D_Z
+    start: 5.475
+    type: viseme
+  - end: 5.655
+    id: R_ER
+    start: 5.585
+    type: viseme
+  - end: 5.735
+    id: EY
+    start: 5.655
+    type: viseme
+  - end: 5.775
+    id: N_NG_D_Z
+    start: 5.735
+    type: viseme
+  - end: 5.885
+    id: AA_AH
+    start: 5.775
+    type: viseme
+  - end: 6.025
+    id: EH_AE_AY
+    start: 5.885
+    type: viseme
+  - end: 6.135
+    id: R_ER
+    start: 6.025
+    type: viseme
+  - end: 6.195
+    id: EH_AE_AY
+    start: 6.135
+    type: viseme
+  - end: 6.225
+    id: M_B_P
+    start: 6.195
+    type: viseme
+  - end: 6.625
+    id: AA_AH
+    start: 6.225
+    type: viseme
+  - end: 6.715
+    id: AO_AW
+    start: 6.625
+    type: viseme
+  - end: 6.765
+    id: N_NG_D_Z
+    start: 6.715
+    type: viseme
+  - end: 7.005
+    id: EY
+    start: 6.765
+    type: viseme
+  - end: 7.065
+    id: L
+    start: 7.005
+    type: viseme
+  - end: 7.195
+    id: EH_AE_AY
+    start: 7.065
+    type: viseme
+  - end: 7.225
+    id: N_NG_D_Z
+    start: 7.195
+    type: viseme
+  - end: 7.305
+    id: N_NG_D_Z
+    start: 7.225
+    type: viseme
+  - end: 7.335
+    id: EH_AE_AY
+    start: 7.305
+    type: viseme
+  - end: 7.395
+    id: M_B_P
+    start: 7.335
+    type: viseme
+  - end: 7.485
+    id: AA_AH
+    start: 7.395
+    type: viseme
+  - end: 7.595
+    id: EH_AE_AY
+    start: 7.485
+    type: viseme
+  - end: 7.625
+    id: R_ER
+    start: 7.595
+    type: viseme
+  - end: 7.795
+    id: EH_AE_AY
+    start: 7.625
+    type: viseme
+  - end: 7.925
+    id: AA_AH
+    start: 7.795
+    type: viseme
+  - end: 8.025
+    id: EH_AE_AY
+    start: 7.925
+    type: viseme
+  - end: 8.185
+    id: R_ER
+    start: 8.025
+    type: viseme
+  - end: 8.235
+    id: EH_AE_AY
+    start: 8.185
+    type: viseme
+  - end: 8.315
+    id: M_B_P
+    start: 8.235
+    type: viseme
+  - end: 8.805
+    id: IDLE
+    start: 8.315
+    type: viseme
+  - end: 8.875
+    id: N_NG_D_Z
+    start: 8.805
+    type: viseme
+  - end: 9.005
+    id: EY
+    start: 8.875
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_cayennepatmyfur_c100.wav
+  text: <chilly_cayennepatmyfur_c100 missing text>
+chilly_closeeyesbye_c100:
+  actions:
+  - end: 0.745
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.845
+    id: EH_AE_AY
+    start: 0.745
+    type: viseme
+  - end: 0.905
+    id: L
+    start: 0.845
+    type: viseme
+  - end: 0.965
+    id: EH_AE_AY
+    start: 0.905
+    type: viseme
+  - end: 0.995
+    id: N_NG_D_Z
+    start: 0.965
+    type: viseme
+  - end: 1.085
+    id: N_NG_D_Z
+    start: 0.995
+    type: viseme
+  - end: 1.145
+    id: N_NG_D_Z
+    start: 1.085
+    type: viseme
+  - end: 1.175
+    id: R_ER
+    start: 1.145
+    type: viseme
+  - end: 1.305
+    id: EY
+    start: 1.175
+    type: viseme
+  - end: 1.385
+    id: EY
+    start: 1.305
+    type: viseme
+  - end: 1.435
+    id: AA_AH
+    start: 1.385
+    type: viseme
+  - end: 1.495
+    id: AO_AW
+    start: 1.435
+    type: viseme
+  - end: 1.605
+    id: EY
+    start: 1.495
+    type: viseme
+  - end: 1.635
+    id: L
+    start: 1.605
+    type: viseme
+  - end: 1.715
+    id: EY
+    start: 1.635
+    type: viseme
+  - end: 1.785
+    id: L
+    start: 1.715
+    type: viseme
+  - end: 1.905
+    id: EY
+    start: 1.785
+    type: viseme
+  - end: 1.975
+    id: EH_AE_AY
+    start: 1.905
+    type: viseme
+  - end: 2.105
+    id: EH_AE_AY
+    start: 1.975
+    type: viseme
+  - end: 2.165
+    id: R_ER
+    start: 2.105
+    type: viseme
+  - end: 2.465
+    id: M_B_P
+    start: 2.165
+    type: viseme
+  - end: 2.505
+    id: N_NG_D_Z
+    start: 2.465
+    type: viseme
+  - end: 2.635
+    id: EH_AE_AY
+    start: 2.505
+    type: viseme
+  - end: 2.675
+    id: N_NG_D_Z
+    start: 2.635
+    type: viseme
+  - end: 2.755
+    id: EH_AE_AY
+    start: 2.675
+    type: viseme
+  - end: 2.875
+    id: EY
+    start: 2.755
+    type: viseme
+  - end: 2.915
+    id: N_NG_D_Z
+    start: 2.875
+    type: viseme
+  - end: 2.955
+    id: EH_AE_AY
+    start: 2.915
+    type: viseme
+  - end: 2.995
+    id: N_NG_D_Z
+    start: 2.955
+    type: viseme
+  - end: 3.045
+    id: EH_AE_AY
+    start: 2.995
+    type: viseme
+  - end: 3.095
+    id: R_ER
+    start: 3.045
+    type: viseme
+  - end: 3.175
+    id: EH_AE_AY
+    start: 3.095
+    type: viseme
+  - end: 3.215
+    id: N_NG_D_Z
+    start: 3.175
+    type: viseme
+  - end: 3.265
+    id: EH_AE_AY
+    start: 3.215
+    type: viseme
+  - end: 3.455
+    id: EH_AE_AY
+    start: 3.265
+    type: viseme
+  - end: 3.565
+    id: R_ER
+    start: 3.455
+    type: viseme
+  - end: 3.645
+    id: EY
+    start: 3.565
+    type: viseme
+  - end: 3.705
+    id: N_NG_D_Z
+    start: 3.645
+    type: viseme
+  - end: 3.805
+    id: EY
+    start: 3.705
+    type: viseme
+  - end: 3.855
+    id: EH_AE_AY
+    start: 3.805
+    type: viseme
+  - end: 3.905
+    id: M_B_P
+    start: 3.855
+    type: viseme
+  - end: 4.055
+    id: EH_AE_AY
+    start: 3.905
+    type: viseme
+  - end: 4.095
+    id: M_B_P
+    start: 4.055
+    type: viseme
+  - end: 4.205
+    id: N_NG_D_Z
+    start: 4.095
+    type: viseme
+  - end: 4.235
+    id: AA_AH
+    start: 4.205
+    type: viseme
+  - end: 4.405
+    id: EH_AE_AY
+    start: 4.235
+    type: viseme
+  - end: 4.535
+    id: AO_AW
+    start: 4.405
+    type: viseme
+  - end: 4.875
+    id: M_B_P
+    start: 4.535
+    type: viseme
+  - end: 5.185
+    id: IDLE
+    start: 4.875
+    type: viseme
+  - end: 5.445
+    id: EH_AE_AY
+    start: 5.185
+    type: viseme
+  - end: 5.645
+    id: EY
+    start: 5.445
+    type: viseme
+  - end: 5.685
+    id: EH_AE_AY
+    start: 5.645
+    type: viseme
+  - end: 5.735
+    id: M_B_P
+    start: 5.685
+    type: viseme
+  - end: 5.805
+    id: M_B_P
+    start: 5.735
+    type: viseme
+  - end: 6.795
+    id: IDLE
+    start: 5.805
+    type: viseme
+  - end: 7.005
+    id: EY
+    start: 6.795
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_closeeyesbye_c100.wav
+  text: <chilly_closeeyesbye_c100 missing text>
+chilly_didigetthemright_c100:
+  actions:
+  - end: 0.245
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.635
+    id: IDLE
+    start: 0.245
+    type: viseme
+  - end: 0.785
+    id: M_B_P
+    start: 0.635
+    type: viseme
+  - end: 0.825
+    id: N_NG_D_Z
+    start: 0.785
+    type: viseme
+  - end: 0.935
+    id: EH_AE_AY
+    start: 0.825
+    type: viseme
+  - end: 1.075
+    id: EH_AE_AY
+    start: 0.935
+    type: viseme
+  - end: 1.125
+    id: N_NG_D_Z
+    start: 1.075
+    type: viseme
+  - end: 1.305
+    id: EH_AE_AY
+    start: 1.125
+    type: viseme
+  - end: 1.345
+    id: M_B_P
+    start: 1.305
+    type: viseme
+  - end: 1.515
+    id: EH_AE_AY
+    start: 1.345
+    type: viseme
+  - end: 1.555
+    id: R_ER
+    start: 1.515
+    type: viseme
+  - end: 1.645
+    id: EH_AE_AY
+    start: 1.555
+    type: viseme
+  - end: 1.835
+    id: EY
+    start: 1.645
+    type: viseme
+  - end: 1.875
+    id: L
+    start: 1.835
+    type: viseme
+  - end: 1.985
+    id: M_B_P
+    start: 1.875
+    type: viseme
+  - end: 2.735
+    id: IDLE
+    start: 1.985
+    type: viseme
+  - end: 2.855
+    id: N_NG_D_Z
+    start: 2.735
+    type: viseme
+  - end: 3.005
+    id: EY
+    start: 2.855
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_didigetthemright_c100.wav
+  text: <chilly_didigetthemright_c100 missing text>
+chilly_didnthear_c100:
+  actions:
+  - end: 0.385
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.845
+    id: AA_AH
+    start: 0.385
+    type: viseme
+  - end: 1.085
+    id: EH_AE_AY
+    start: 0.845
+    type: viseme
+  - end: 1.165
+    id: EH_AE_AY
+    start: 1.085
+    type: viseme
+  - end: 1.245
+    id: N_NG_D_Z
+    start: 1.165
+    type: viseme
+  - end: 1.385
+    id: M_B_P
+    start: 1.245
+    type: viseme
+  - end: 1.415
+    id: EY
+    start: 1.385
+    type: viseme
+  - end: 1.465
+    id: N_NG_D_Z
+    start: 1.415
+    type: viseme
+  - end: 1.655
+    id: EH_AE_AY
+    start: 1.465
+    type: viseme
+  - end: 1.695
+    id: N_NG_D_Z
+    start: 1.655
+    type: viseme
+  - end: 1.825
+    id: EY
+    start: 1.695
+    type: viseme
+  - end: 1.975
+    id: EY
+    start: 1.825
+    type: viseme
+  - end: 2.015
+    id: L
+    start: 1.975
+    type: viseme
+  - end: 2.125
+    id: EY
+    start: 2.015
+    type: viseme
+  - end: 2.195
+    id: EH_AE_AY
+    start: 2.125
+    type: viseme
+  - end: 2.305
+    id: AA_AH
+    start: 2.195
+    type: viseme
+  - end: 2.345
+    id: M_B_P
+    start: 2.305
+    type: viseme
+  - end: 2.465
+    id: M_B_P
+    start: 2.345
+    type: viseme
+  - end: 2.605
+    id: IDLE
+    start: 2.465
+    type: viseme
+  - end: 2.665
+    id: N_NG_D_Z
+    start: 2.605
+    type: viseme
+  - end: 2.735
+    id: EY
+    start: 2.665
+    type: viseme
+  - end: 2.785
+    id: N_NG_D_Z
+    start: 2.735
+    type: viseme
+  - end: 2.845
+    id: EY
+    start: 2.785
+    type: viseme
+  - end: 2.875
+    id: EH_AE_AY
+    start: 2.845
+    type: viseme
+  - end: 2.935
+    id: N_NG_D_Z
+    start: 2.875
+    type: viseme
+  - end: 3.015
+    id: N_NG_D_Z
+    start: 2.935
+    type: viseme
+  - end: 3.205
+    id: EY
+    start: 3.015
+    type: viseme
+  - end: 3.265
+    id: AA_AH
+    start: 3.205
+    type: viseme
+  - end: 3.385
+    id: EH_AE_AY
+    start: 3.265
+    type: viseme
+  - end: 3.415
+    id: M_B_P
+    start: 3.385
+    type: viseme
+  - end: 3.565
+    id: EH_AE_AY
+    start: 3.415
+    type: viseme
+  - end: 3.595
+    id: N_NG_D_Z
+    start: 3.565
+    type: viseme
+  - end: 3.695
+    id: EY
+    start: 3.595
+    type: viseme
+  - end: 3.735
+    id: N_NG_D_Z
+    start: 3.695
+    type: viseme
+  - end: 3.945
+    id: EH_AE_AY
+    start: 3.735
+    type: viseme
+  - end: 4.035
+    id: L
+    start: 3.945
+    type: viseme
+  - end: 4.105
+    id: EY
+    start: 4.035
+    type: viseme
+  - end: 4.285
+    id: N_NG_D_Z
+    start: 4.105
+    type: viseme
+  - end: 5.505
+    id: IDLE
+    start: 4.285
+    type: viseme
+  - end: 5.625
+    id: N_NG_D_Z
+    start: 5.505
+    type: viseme
+  - end: 6.005
+    id: EY
+    start: 5.625
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_didnthear_c100.wav
+  text: <chilly_didnthear_c100 missing text>
+chilly_dontgetalong_c100:
+  actions:
+  - end: 0.095
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.465
+    id: IDLE
+    start: 0.095
+    type: viseme
+  - end: 0.885
+    id: M_B_P
+    start: 0.465
+    type: viseme
+  - end: 1.015
+    id: AO_AW
+    start: 0.885
+    type: viseme
+  - end: 1.065
+    id: CH_SH_ZH
+    start: 1.015
+    type: viseme
+  - end: 1.125
+    id: EH_AE_AY
+    start: 1.065
+    type: viseme
+  - end: 1.415
+    id: AO_AW
+    start: 1.125
+    type: viseme
+  - end: 1.475
+    id: M_B_P
+    start: 1.415
+    type: viseme
+  - end: 1.545
+    id: EH_AE_AY
+    start: 1.475
+    type: viseme
+  - end: 1.655
+    id: N_NG_D_Z
+    start: 1.545
+    type: viseme
+  - end: 1.805
+    id: AA_AH
+    start: 1.655
+    type: viseme
+  - end: 1.845
+    id: N_NG_D_Z
+    start: 1.805
+    type: viseme
+  - end: 1.885
+    id: AA_AH
+    start: 1.845
+    type: viseme
+  - end: 2.005
+    id: EH_AE_AY
+    start: 1.885
+    type: viseme
+  - end: 2.045
+    id: EH_AE_AY
+    start: 2.005
+    type: viseme
+  - end: 2.105
+    id: N_NG_D_Z
+    start: 2.045
+    type: viseme
+  - end: 2.135
+    id: AA_AH
+    start: 2.105
+    type: viseme
+  - end: 2.175
+    id: CH_SH_ZH
+    start: 2.135
+    type: viseme
+  - end: 2.245
+    id: EY
+    start: 2.175
+    type: viseme
+  - end: 2.295
+    id: EY
+    start: 2.245
+    type: viseme
+  - end: 2.435
+    id: AO_AW
+    start: 2.295
+    type: viseme
+  - end: 2.475
+    id: N_NG_D_Z
+    start: 2.435
+    type: viseme
+  - end: 2.565
+    id: EH_AE_AY
+    start: 2.475
+    type: viseme
+  - end: 2.595
+    id: N_NG_D_Z
+    start: 2.565
+    type: viseme
+  - end: 2.695
+    id: AO_AW
+    start: 2.595
+    type: viseme
+  - end: 2.765
+    id: L
+    start: 2.695
+    type: viseme
+  - end: 2.935
+    id: AA_AH
+    start: 2.765
+    type: viseme
+  - end: 3.025
+    id: AO_AW
+    start: 2.935
+    type: viseme
+  - end: 3.145
+    id: N_NG_D_Z
+    start: 3.025
+    type: viseme
+  - end: 3.295
+    id: AO_AW
+    start: 3.145
+    type: viseme
+  - end: 3.365
+    id: L
+    start: 3.295
+    type: viseme
+  - end: 3.635
+    id: AO_AW
+    start: 3.365
+    type: viseme
+  - end: 3.885
+    id: M_B_P
+    start: 3.635
+    type: viseme
+  - end: 4.055
+    id: AA_AH
+    start: 3.885
+    type: viseme
+  - end: 4.105
+    id: AO_AW
+    start: 4.055
+    type: viseme
+  - end: 4.265
+    id: M_B_P
+    start: 4.105
+    type: viseme
+  - end: 4.325
+    id: AA_AH
+    start: 4.265
+    type: viseme
+  - end: 4.725
+    id: EH_AE_AY
+    start: 4.325
+    type: viseme
+  - end: 4.965
+    id: M_B_P
+    start: 4.725
+    type: viseme
+  - end: 5.015
+    id: M_B_P
+    start: 4.965
+    type: viseme
+  - end: 5.125
+    id: EH_AE_AY
+    start: 5.015
+    type: viseme
+  - end: 5.155
+    id: R_ER
+    start: 5.125
+    type: viseme
+  - end: 5.205
+    id: N_NG_D_Z
+    start: 5.155
+    type: viseme
+  - end: 5.255
+    id: M_B_P
+    start: 5.205
+    type: viseme
+  - end: 5.385
+    id: EH_AE_AY
+    start: 5.255
+    type: viseme
+  - end: 5.455
+    id: EH_AE_AY
+    start: 5.385
+    type: viseme
+  - end: 5.545
+    id: L
+    start: 5.455
+    type: viseme
+  - end: 5.615
+    id: EH_AE_AY
+    start: 5.545
+    type: viseme
+  - end: 5.655
+    id: N_NG_D_Z
+    start: 5.615
+    type: viseme
+  - end: 5.715
+    id: N_NG_D_Z
+    start: 5.655
+    type: viseme
+  - end: 5.755
+    id: R_ER
+    start: 5.715
+    type: viseme
+  - end: 5.915
+    id: EH_AE_AY
+    start: 5.755
+    type: viseme
+  - end: 5.975
+    id: N_NG_D_Z
+    start: 5.915
+    type: viseme
+  - end: 6.015
+    id: N_NG_D_Z
+    start: 5.975
+    type: viseme
+  - end: 6.115
+    id: AA_AH
+    start: 6.015
+    type: viseme
+  - end: 6.155
+    id: M_B_P
+    start: 6.115
+    type: viseme
+  - end: 6.225
+    id: AA_AH
+    start: 6.155
+    type: viseme
+  - end: 6.315
+    id: EH_AE_AY
+    start: 6.225
+    type: viseme
+  - end: 6.365
+    id: AA_AH
+    start: 6.315
+    type: viseme
+  - end: 6.395
+    id: L
+    start: 6.365
+    type: viseme
+  - end: 6.545
+    id: AO_AW
+    start: 6.395
+    type: viseme
+  - end: 6.615
+    id: N_NG_D_Z
+    start: 6.545
+    type: viseme
+  - end: 6.745
+    id: AO_AW
+    start: 6.615
+    type: viseme
+  - end: 6.815
+    id: EY
+    start: 6.745
+    type: viseme
+  - end: 6.865
+    id: N_NG_D_Z
+    start: 6.815
+    type: viseme
+  - end: 6.945
+    id: N_NG_D_Z
+    start: 6.865
+    type: viseme
+  - end: 6.985
+    id: N_NG_D_Z
+    start: 6.945
+    type: viseme
+  - end: 7.075
+    id: EH_AE_AY
+    start: 6.985
+    type: viseme
+  - end: 7.115
+    id: N_NG_D_Z
+    start: 7.075
+    type: viseme
+  - end: 7.225
+    id: N_NG_D_Z
+    start: 7.115
+    type: viseme
+  - end: 7.275
+    id: M_B_P
+    start: 7.225
+    type: viseme
+  - end: 7.335
+    id: EH_AE_AY
+    start: 7.275
+    type: viseme
+  - end: 7.385
+    id: L
+    start: 7.335
+    type: viseme
+  - end: 7.455
+    id: EY
+    start: 7.385
+    type: viseme
+  - end: 7.575
+    id: EY
+    start: 7.455
+    type: viseme
+  - end: 7.705
+    id: EH_AE_AY
+    start: 7.575
+    type: viseme
+  - end: 7.735
+    id: L
+    start: 7.705
+    type: viseme
+  - end: 7.865
+    id: M_B_P
+    start: 7.735
+    type: viseme
+  - end: 8.105
+    id: AA_AH
+    start: 7.865
+    type: viseme
+  - end: 8.135
+    id: EH_AE_AY
+    start: 8.105
+    type: viseme
+  - end: 8.195
+    id: N_NG_D_Z
+    start: 8.135
+    type: viseme
+  - end: 8.235
+    id: N_NG_D_Z
+    start: 8.195
+    type: viseme
+  - end: 8.345
+    id: EH_AE_AY
+    start: 8.235
+    type: viseme
+  - end: 8.405
+    id: R_ER
+    start: 8.345
+    type: viseme
+  - end: 8.465
+    id: EH_AE_AY
+    start: 8.405
+    type: viseme
+  - end: 8.515
+    id: R_ER
+    start: 8.465
+    type: viseme
+  - end: 8.595
+    id: EY
+    start: 8.515
+    type: viseme
+  - end: 8.745
+    id: AA_AH
+    start: 8.595
+    type: viseme
+  - end: 8.805
+    id: N_NG_D_Z
+    start: 8.745
+    type: viseme
+  - end: 8.925
+    id: AA_AH
+    start: 8.805
+    type: viseme
+  - end: 9.035
+    id: EH_AE_AY
+    start: 8.925
+    type: viseme
+  - end: 9.145
+    id: AA_AH
+    start: 9.035
+    type: viseme
+  - end: 9.265
+    id: AA_AH
+    start: 9.145
+    type: viseme
+  - end: 9.385
+    id: L
+    start: 9.265
+    type: viseme
+  - end: 9.435
+    id: EH_AE_AY
+    start: 9.385
+    type: viseme
+  - end: 9.475
+    id: M_B_P
+    start: 9.435
+    type: viseme
+  - end: 9.545
+    id: AA_AH
+    start: 9.475
+    type: viseme
+  - end: 9.625
+    id: EH_AE_AY
+    start: 9.545
+    type: viseme
+  - end: 9.765
+    id: R_ER
+    start: 9.625
+    type: viseme
+  - end: 9.815
+    id: EY
+    start: 9.765
+    type: viseme
+  - end: 9.875
+    id: N_NG_D_Z
+    start: 9.815
+    type: viseme
+  - end: 10.565
+    id: IDLE
+    start: 9.875
+    type: viseme
+  - end: 11.005
+    id: EY
+    start: 10.565
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_dontgetalong_c100.wav
+  text: <chilly_dontgetalong_c100 missing text>
+chilly_dontworryaboutit_c100:
+  actions:
+  - end: 0.845
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.965
+    id: IDLE
+    start: 0.845
+    type: viseme
+  - end: 0.995
+    id: N_NG_D_Z
+    start: 0.965
+    type: viseme
+  - end: 1.045
+    id: EH_AE_AY
+    start: 0.995
+    type: viseme
+  - end: 1.145
+    id: EH_AE_AY
+    start: 1.045
+    type: viseme
+  - end: 1.235
+    id: N_NG_D_Z
+    start: 1.145
+    type: viseme
+  - end: 1.375
+    id: EH_AE_AY
+    start: 1.235
+    type: viseme
+  - end: 1.415
+    id: N_NG_D_Z
+    start: 1.375
+    type: viseme
+  - end: 1.475
+    id: AA_AH
+    start: 1.415
+    type: viseme
+  - end: 1.605
+    id: EH_AE_AY
+    start: 1.475
+    type: viseme
+  - end: 1.775
+    id: EY
+    start: 1.605
+    type: viseme
+  - end: 1.945
+    id: N_NG_D_Z
+    start: 1.775
+    type: viseme
+  - end: 2.055
+    id: M_B_P
+    start: 1.945
+    type: viseme
+  - end: 2.095
+    id: N_NG_D_Z
+    start: 2.055
+    type: viseme
+  - end: 2.305
+    id: AO_AW
+    start: 2.095
+    type: viseme
+  - end: 2.365
+    id: L
+    start: 2.305
+    type: viseme
+  - end: 2.455
+    id: EH_AE_AY
+    start: 2.365
+    type: viseme
+  - end: 2.515
+    id: R_ER
+    start: 2.455
+    type: viseme
+  - end: 2.625
+    id: EY
+    start: 2.515
+    type: viseme
+  - end: 2.695
+    id: EY
+    start: 2.625
+    type: viseme
+  - end: 2.735
+    id: AA_AH
+    start: 2.695
+    type: viseme
+  - end: 2.875
+    id: AO_AW
+    start: 2.735
+    type: viseme
+  - end: 2.905
+    id: EH_AE_AY
+    start: 2.875
+    type: viseme
+  - end: 2.945
+    id: N_NG_D_Z
+    start: 2.905
+    type: viseme
+  - end: 3.135
+    id: EH_AE_AY
+    start: 2.945
+    type: viseme
+  - end: 3.185
+    id: N_NG_D_Z
+    start: 3.135
+    type: viseme
+  - end: 3.575
+    id: M_B_P
+    start: 3.185
+    type: viseme
+  - end: 3.625
+    id: EH_AE_AY
+    start: 3.575
+    type: viseme
+  - end: 4.005
+    id: M_B_P
+    start: 3.625
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.005
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_dontworryaboutit_c100.wav
+  text: <chilly_dontworryaboutit_c100 missing text>
+chilly_doyouhavesiblings_c100:
+  actions:
+  - end: 0.255
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.635
+    id: IDLE
+    start: 0.255
+    type: viseme
+  - end: 0.695
+    id: AA_AH
+    start: 0.635
+    type: viseme
+  - end: 0.825
+    id: EY
+    start: 0.695
+    type: viseme
+  - end: 0.935
+    id: EH_AE_AY
+    start: 0.825
+    type: viseme
+  - end: 1.175
+    id: AO_AW
+    start: 0.935
+    type: viseme
+  - end: 1.235
+    id: EH_AE_AY
+    start: 1.175
+    type: viseme
+  - end: 1.675
+    id: M_B_P
+    start: 1.235
+    type: viseme
+  - end: 1.715
+    id: M_B_P
+    start: 1.675
+    type: viseme
+  - end: 1.825
+    id: EY
+    start: 1.715
+    type: viseme
+  - end: 1.935
+    id: EY
+    start: 1.825
+    type: viseme
+  - end: 2.015
+    id: EY
+    start: 1.935
+    type: viseme
+  - end: 2.065
+    id: R_ER
+    start: 2.015
+    type: viseme
+  - end: 2.115
+    id: AA_AH
+    start: 2.065
+    type: viseme
+  - end: 2.225
+    id: EH_AE_AY
+    start: 2.115
+    type: viseme
+  - end: 2.265
+    id: N_NG_D_Z
+    start: 2.225
+    type: viseme
+  - end: 2.325
+    id: EY
+    start: 2.265
+    type: viseme
+  - end: 2.365
+    id: L
+    start: 2.325
+    type: viseme
+  - end: 2.455
+    id: EY
+    start: 2.365
+    type: viseme
+  - end: 2.485
+    id: N_NG_D_Z
+    start: 2.455
+    type: viseme
+  - end: 2.645
+    id: AA_AH
+    start: 2.485
+    type: viseme
+  - end: 2.685
+    id: M_B_P
+    start: 2.645
+    type: viseme
+  - end: 2.815
+    id: EH_AE_AY
+    start: 2.685
+    type: viseme
+  - end: 2.855
+    id: N_NG_D_Z
+    start: 2.815
+    type: viseme
+  - end: 2.945
+    id: EH_AE_AY
+    start: 2.855
+    type: viseme
+  - end: 3.045
+    id: N_NG_D_Z
+    start: 2.945
+    type: viseme
+  - end: 3.145
+    id: EH_AE_AY
+    start: 3.045
+    type: viseme
+  - end: 3.215
+    id: N_NG_D_Z
+    start: 3.145
+    type: viseme
+  - end: 3.275
+    id: N_NG_D_Z
+    start: 3.215
+    type: viseme
+  - end: 3.465
+    id: EH_AE_AY
+    start: 3.275
+    type: viseme
+  - end: 3.525
+    id: M_B_P
+    start: 3.465
+    type: viseme
+  - end: 3.635
+    id: N_NG_D_Z
+    start: 3.525
+    type: viseme
+  - end: 4.385
+    id: IDLE
+    start: 3.635
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.385
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_doyouhavesiblings_c100.wav
+  text: <chilly_doyouhavesiblings_c100 missing text>
+chilly_forgotthirdstep_c100:
+  actions:
+  - end: 0.145
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.735
+    id: AA_AH
+    start: 0.145
+    type: viseme
+  - end: 0.765
+    id: EH_AE_AY
+    start: 0.735
+    type: viseme
+  - end: 0.795
+    id: M_B_P
+    start: 0.765
+    type: viseme
+  - end: 0.945
+    id: IDLE
+    start: 0.795
+    type: viseme
+  - end: 1.115
+    id: EH_AE_AY
+    start: 0.945
+    type: viseme
+  - end: 1.185
+    id: EH_AE_AY
+    start: 1.115
+    type: viseme
+  - end: 1.245
+    id: AA_AH
+    start: 1.185
+    type: viseme
+  - end: 1.315
+    id: EH_AE_AY
+    start: 1.245
+    type: viseme
+  - end: 1.385
+    id: R_ER
+    start: 1.315
+    type: viseme
+  - end: 1.425
+    id: N_NG_D_Z
+    start: 1.385
+    type: viseme
+  - end: 1.655
+    id: EH_AE_AY
+    start: 1.425
+    type: viseme
+  - end: 1.685
+    id: N_NG_D_Z
+    start: 1.655
+    type: viseme
+  - end: 1.915
+    id: EH_AE_AY
+    start: 1.685
+    type: viseme
+  - end: 2.055
+    id: N_NG_D_Z
+    start: 1.915
+    type: viseme
+  - end: 2.305
+    id: EH_AE_AY
+    start: 2.055
+    type: viseme
+  - end: 2.345
+    id: EH_AE_AY
+    start: 2.305
+    type: viseme
+  - end: 2.625
+    id: AA_AH
+    start: 2.345
+    type: viseme
+  - end: 2.745
+    id: EH_AE_AY
+    start: 2.625
+    type: viseme
+  - end: 2.855
+    id: N_NG_D_Z
+    start: 2.745
+    type: viseme
+  - end: 3.055
+    id: EY
+    start: 2.855
+    type: viseme
+  - end: 3.175
+    id: N_NG_D_Z
+    start: 3.055
+    type: viseme
+  - end: 3.325
+    id: AO_AW
+    start: 3.175
+    type: viseme
+  - end: 3.385
+    id: AA_AH
+    start: 3.325
+    type: viseme
+  - end: 3.425
+    id: M_B_P
+    start: 3.385
+    type: viseme
+  - end: 3.495
+    id: N_NG_D_Z
+    start: 3.425
+    type: viseme
+  - end: 3.535
+    id: N_NG_D_Z
+    start: 3.495
+    type: viseme
+  - end: 3.755
+    id: EH_AE_AY
+    start: 3.535
+    type: viseme
+  - end: 3.815
+    id: N_NG_D_Z
+    start: 3.755
+    type: viseme
+  - end: 3.875
+    id: R_ER
+    start: 3.815
+    type: viseme
+  - end: 3.945
+    id: EY
+    start: 3.875
+    type: viseme
+  - end: 3.975
+    id: L
+    start: 3.945
+    type: viseme
+  - end: 4.075
+    id: EH_AE_AY
+    start: 3.975
+    type: viseme
+  - end: 4.125
+    id: CH_SH_ZH
+    start: 4.075
+    type: viseme
+  - end: 4.385
+    id: EH_AE_AY
+    start: 4.125
+    type: viseme
+  - end: 4.555
+    id: EH_AE_AY
+    start: 4.385
+    type: viseme
+  - end: 4.995
+    id: AA_AH
+    start: 4.555
+    type: viseme
+  - end: 5.085
+    id: AO_AW
+    start: 4.995
+    type: viseme
+  - end: 5.185
+    id: M_B_P
+    start: 5.085
+    type: viseme
+  - end: 5.285
+    id: IDLE
+    start: 5.185
+    type: viseme
+  - end: 5.435
+    id: N_NG_D_Z
+    start: 5.285
+    type: viseme
+  - end: 5.505
+    id: EY
+    start: 5.435
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_forgotthirdstep_c100.wav
+  text: <chilly_forgotthirdstep_c100 missing text>
+chilly_giggle_c500:
+  actions:
+  - end: 0.165
+    id: AA_AH
+    start: 0.005
+    type: viseme
+  - end: 0.235
+    id: N_NG_D_Z
+    start: 0.165
+    type: viseme
+  - end: 0.645
+    id: EH_AE_AY
+    start: 0.235
+    type: viseme
+  - end: 0.875
+    id: N_NG_D_Z
+    start: 0.645
+    type: viseme
+  - end: 1.545
+    id: M_B_P
+    start: 0.875
+    type: viseme
+  - end: 1.585
+    id: AO_AW
+    start: 1.545
+    type: viseme
+  - end: 1.975
+    id: M_B_P
+    start: 1.585
+    type: viseme
+  - end: 2.005
+    id: EY
+    start: 1.975
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_giggle_c500.wav
+  text: <chilly_giggle_c500 missing text>
+chilly_hereigoallsteps_c100:
+  actions:
+  - end: 0.315
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.495
+    id: N_NG_D_Z
+    start: 0.315
+    type: viseme
+  - end: 0.675
+    id: IDLE
+    start: 0.495
+    type: viseme
+  - end: 0.785
+    id: M_B_P
+    start: 0.675
+    type: viseme
+  - end: 0.895
+    id: AA_AH
+    start: 0.785
+    type: viseme
+  - end: 0.975
+    id: EH_AE_AY
+    start: 0.895
+    type: viseme
+  - end: 1.065
+    id: EY
+    start: 0.975
+    type: viseme
+  - end: 1.165
+    id: EH_AE_AY
+    start: 1.065
+    type: viseme
+  - end: 1.205
+    id: N_NG_D_Z
+    start: 1.165
+    type: viseme
+  - end: 1.245
+    id: N_NG_D_Z
+    start: 1.205
+    type: viseme
+  - end: 1.435
+    id: EH_AE_AY
+    start: 1.245
+    type: viseme
+  - end: 1.585
+    id: AO_AW
+    start: 1.435
+    type: viseme
+  - end: 1.635
+    id: EH_AE_AY
+    start: 1.585
+    type: viseme
+  - end: 1.755
+    id: M_B_P
+    start: 1.635
+    type: viseme
+  - end: 2.265
+    id: IDLE
+    start: 1.755
+    type: viseme
+  - end: 2.315
+    id: CH_SH_ZH
+    start: 2.265
+    type: viseme
+  - end: 2.415
+    id: L
+    start: 2.315
+    type: viseme
+  - end: 2.665
+    id: EH_AE_AY
+    start: 2.415
+    type: viseme
+  - end: 2.745
+    id: EY
+    start: 2.665
+    type: viseme
+  - end: 2.835
+    id: N_NG_D_Z
+    start: 2.745
+    type: viseme
+  - end: 3.065
+    id: IDLE
+    start: 2.835
+    type: viseme
+  - end: 3.115
+    id: L
+    start: 3.065
+    type: viseme
+  - end: 3.245
+    id: AO_AW
+    start: 3.115
+    type: viseme
+  - end: 3.295
+    id: R_ER
+    start: 3.245
+    type: viseme
+  - end: 3.385
+    id: N_NG_D_Z
+    start: 3.295
+    type: viseme
+  - end: 3.455
+    id: EY
+    start: 3.385
+    type: viseme
+  - end: 3.675
+    id: EH_AE_AY
+    start: 3.455
+    type: viseme
+  - end: 3.755
+    id: N_NG_D_Z
+    start: 3.675
+    type: viseme
+  - end: 3.815
+    id: N_NG_D_Z
+    start: 3.755
+    type: viseme
+  - end: 4.045
+    id: EH_AE_AY
+    start: 3.815
+    type: viseme
+  - end: 4.125
+    id: L
+    start: 4.045
+    type: viseme
+  - end: 4.915
+    id: N_NG_D_Z
+    start: 4.125
+    type: viseme
+  - end: 5.035
+    id: N_NG_D_Z
+    start: 4.915
+    type: viseme
+  - end: 5.105
+    id: EY
+    start: 5.035
+    type: viseme
+  - end: 5.285
+    id: EH_AE_AY
+    start: 5.105
+    type: viseme
+  - end: 5.385
+    id: L
+    start: 5.285
+    type: viseme
+  - end: 5.475
+    id: M_B_P
+    start: 5.385
+    type: viseme
+  - end: 5.685
+    id: M_B_P
+    start: 5.475
+    type: viseme
+  - end: 5.785
+    id: CH_SH_ZH
+    start: 5.685
+    type: viseme
+  - end: 5.885
+    id: EH_AE_AY
+    start: 5.785
+    type: viseme
+  - end: 5.985
+    id: L
+    start: 5.885
+    type: viseme
+  - end: 6.025
+    id: EY
+    start: 5.985
+    type: viseme
+  - end: 6.155
+    id: AA_AH
+    start: 6.025
+    type: viseme
+  - end: 6.295
+    id: AO_AW
+    start: 6.155
+    type: viseme
+  - end: 6.355
+    id: M_B_P
+    start: 6.295
+    type: viseme
+  - end: 6.515
+    id: EH_AE_AY
+    start: 6.355
+    type: viseme
+  - end: 6.555
+    id: M_B_P
+    start: 6.515
+    type: viseme
+  - end: 6.605
+    id: EY
+    start: 6.555
+    type: viseme
+  - end: 6.735
+    id: N_NG_D_Z
+    start: 6.605
+    type: viseme
+  - end: 6.905
+    id: AA_AH
+    start: 6.735
+    type: viseme
+  - end: 6.935
+    id: EH_AE_AY
+    start: 6.905
+    type: viseme
+  - end: 7.075
+    id: N_NG_D_Z
+    start: 6.935
+    type: viseme
+  - end: 7.205
+    id: IDLE
+    start: 7.075
+    type: viseme
+  - end: 7.235
+    id: N_NG_D_Z
+    start: 7.205
+    type: viseme
+  - end: 7.345
+    id: EH_AE_AY
+    start: 7.235
+    type: viseme
+  - end: 7.595
+    id: EY
+    start: 7.345
+    type: viseme
+  - end: 7.955
+    id: N_NG_D_Z
+    start: 7.595
+    type: viseme
+  - end: 8.015
+    id: M_B_P
+    start: 7.955
+    type: viseme
+  - end: 8.185
+    id: EH_AE_AY
+    start: 8.015
+    type: viseme
+  - end: 8.305
+    id: CH_SH_ZH
+    start: 8.185
+    type: viseme
+  - end: 8.405
+    id: EH_AE_AY
+    start: 8.305
+    type: viseme
+  - end: 8.615
+    id: EH_AE_AY
+    start: 8.405
+    type: viseme
+  - end: 8.665
+    id: N_NG_D_Z
+    start: 8.615
+    type: viseme
+  - end: 8.785
+    id: CH_SH_ZH
+    start: 8.665
+    type: viseme
+  - end: 8.965
+    id: EH_AE_AY
+    start: 8.785
+    type: viseme
+  - end: 8.995
+    id: L
+    start: 8.965
+    type: viseme
+  - end: 9.065
+    id: EH_AE_AY
+    start: 8.995
+    type: viseme
+  - end: 9.215
+    id: N_NG_D_Z
+    start: 9.065
+    type: viseme
+  - end: 9.315
+    id: N_NG_D_Z
+    start: 9.215
+    type: viseme
+  - end: 10.145
+    id: IDLE
+    start: 9.315
+    type: viseme
+  - end: 10.265
+    id: N_NG_D_Z
+    start: 10.145
+    type: viseme
+  - end: 10.305
+    id: M_B_P
+    start: 10.265
+    type: viseme
+  - end: 10.505
+    id: EY
+    start: 10.305
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_hereigoallsteps_c100.wav
+  text: <chilly_hereigoallsteps_c100 missing text>
+chilly_hereigostepone_c100:
+  actions:
+  - end: 0.805
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.965
+    id: AA_AH
+    start: 0.805
+    type: viseme
+  - end: 1.065
+    id: EY
+    start: 0.965
+    type: viseme
+  - end: 1.145
+    id: R_ER
+    start: 1.065
+    type: viseme
+  - end: 1.315
+    id: AO_AW
+    start: 1.145
+    type: viseme
+  - end: 1.365
+    id: N_NG_D_Z
+    start: 1.315
+    type: viseme
+  - end: 1.495
+    id: AO_AW
+    start: 1.365
+    type: viseme
+  - end: 1.725
+    id: AO_AW
+    start: 1.495
+    type: viseme
+  - end: 1.755
+    id: R_ER
+    start: 1.725
+    type: viseme
+  - end: 2.325
+    id: M_B_P
+    start: 1.755
+    type: viseme
+  - end: 2.445
+    id: AA_AH
+    start: 2.325
+    type: viseme
+  - end: 2.525
+    id: AO_AW
+    start: 2.445
+    type: viseme
+  - end: 2.615
+    id: L
+    start: 2.525
+    type: viseme
+  - end: 2.665
+    id: AO_AW
+    start: 2.615
+    type: viseme
+  - end: 2.805
+    id: AA_AH
+    start: 2.665
+    type: viseme
+  - end: 2.835
+    id: R_ER
+    start: 2.805
+    type: viseme
+  - end: 2.895
+    id: EY
+    start: 2.835
+    type: viseme
+  - end: 3.055
+    id: EY
+    start: 2.895
+    type: viseme
+  - end: 3.455
+    id: M_B_P
+    start: 3.055
+    type: viseme
+  - end: 3.605
+    id: L
+    start: 3.455
+    type: viseme
+  - end: 3.825
+    id: EH_AE_AY
+    start: 3.605
+    type: viseme
+  - end: 3.885
+    id: L
+    start: 3.825
+    type: viseme
+  - end: 3.935
+    id: N_NG_D_Z
+    start: 3.885
+    type: viseme
+  - end: 3.985
+    id: AA_AH
+    start: 3.935
+    type: viseme
+  - end: 4.135
+    id: EH_AE_AY
+    start: 3.985
+    type: viseme
+  - end: 4.205
+    id: EH_AE_AY
+    start: 4.135
+    type: viseme
+  - end: 4.235
+    id: M_B_P
+    start: 4.205
+    type: viseme
+  - end: 4.285
+    id: EH_AE_AY
+    start: 4.235
+    type: viseme
+  - end: 4.345
+    id: N_NG_D_Z
+    start: 4.285
+    type: viseme
+  - end: 4.695
+    id: EH_AE_AY
+    start: 4.345
+    type: viseme
+  - end: 4.745
+    id: EH_AE_AY
+    start: 4.695
+    type: viseme
+  - end: 4.855
+    id: L
+    start: 4.745
+    type: viseme
+  - end: 4.885
+    id: M_B_P
+    start: 4.855
+    type: viseme
+  - end: 4.925
+    id: N_NG_D_Z
+    start: 4.885
+    type: viseme
+  - end: 5.255
+    id: EH_AE_AY
+    start: 4.925
+    type: viseme
+  - end: 5.325
+    id: L
+    start: 5.255
+    type: viseme
+  - end: 5.575
+    id: M_B_P
+    start: 5.325
+    type: viseme
+  - end: 5.895
+    id: AA_AH
+    start: 5.575
+    type: viseme
+  - end: 5.955
+    id: AO_AW
+    start: 5.895
+    type: viseme
+  - end: 6.325
+    id: M_B_P
+    start: 5.955
+    type: viseme
+  - end: 6.505
+    id: EY
+    start: 6.325
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_hereigostepone_c100.wav
+  text: <chilly_hereigostepone_c100 missing text>
+chilly_hereigostepthree_c100:
+  actions:
+  - end: 0.505
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.695
+    id: AA_AH
+    start: 0.505
+    type: viseme
+  - end: 0.785
+    id: EH_AE_AY
+    start: 0.695
+    type: viseme
+  - end: 0.845
+    id: R_ER
+    start: 0.785
+    type: viseme
+  - end: 0.985
+    id: EH_AE_AY
+    start: 0.845
+    type: viseme
+  - end: 1.025
+    id: N_NG_D_Z
+    start: 0.985
+    type: viseme
+  - end: 1.415
+    id: AO_AW
+    start: 1.025
+    type: viseme
+  - end: 1.575
+    id: M_B_P
+    start: 1.415
+    type: viseme
+  - end: 2.075
+    id: AA_AH
+    start: 1.575
+    type: viseme
+  - end: 2.175
+    id: EH_AE_AY
+    start: 2.075
+    type: viseme
+  - end: 2.225
+    id: M_B_P
+    start: 2.175
+    type: viseme
+  - end: 2.275
+    id: CH_SH_ZH
+    start: 2.225
+    type: viseme
+  - end: 2.365
+    id: R_ER
+    start: 2.275
+    type: viseme
+  - end: 2.675
+    id: EY
+    start: 2.365
+    type: viseme
+  - end: 2.705
+    id: EH_AE_AY
+    start: 2.675
+    type: viseme
+  - end: 2.845
+    id: M_B_P
+    start: 2.705
+    type: viseme
+  - end: 3.015
+    id: AA_AH
+    start: 2.845
+    type: viseme
+  - end: 3.055
+    id: EH_AE_AY
+    start: 3.015
+    type: viseme
+  - end: 3.195
+    id: M_B_P
+    start: 3.055
+    type: viseme
+  - end: 3.335
+    id: L
+    start: 3.195
+    type: viseme
+  - end: 3.545
+    id: EH_AE_AY
+    start: 3.335
+    type: viseme
+  - end: 3.695
+    id: CH_SH_ZH
+    start: 3.545
+    type: viseme
+  - end: 3.805
+    id: EH_AE_AY
+    start: 3.695
+    type: viseme
+  - end: 3.835
+    id: N_NG_D_Z
+    start: 3.805
+    type: viseme
+  - end: 3.935
+    id: EH_AE_AY
+    start: 3.835
+    type: viseme
+  - end: 3.985
+    id: R_ER
+    start: 3.935
+    type: viseme
+  - end: 4.195
+    id: EH_AE_AY
+    start: 3.985
+    type: viseme
+  - end: 4.295
+    id: EY
+    start: 4.195
+    type: viseme
+  - end: 4.345
+    id: N_NG_D_Z
+    start: 4.295
+    type: viseme
+  - end: 4.495
+    id: CH_SH_ZH
+    start: 4.345
+    type: viseme
+  - end: 4.865
+    id: EH_AE_AY
+    start: 4.495
+    type: viseme
+  - end: 5.005
+    id: N_NG_D_Z
+    start: 4.865
+    type: viseme
+  - end: 5.365
+    id: AA_AH
+    start: 5.005
+    type: viseme
+  - end: 5.495
+    id: AO_AW
+    start: 5.365
+    type: viseme
+  - end: 5.635
+    id: M_B_P
+    start: 5.495
+    type: viseme
+  - end: 6.005
+    id: EY
+    start: 5.635
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_hereigostepthree_c100.wav
+  text: <chilly_hereigostepthree_c100 missing text>
+chilly_hereigosteptwo_c100:
+  actions:
+  - end: 0.095
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.275
+    id: AA_AH
+    start: 0.095
+    type: viseme
+  - end: 0.425
+    id: AO_AW
+    start: 0.275
+    type: viseme
+  - end: 0.885
+    id: AA_AH
+    start: 0.425
+    type: viseme
+  - end: 0.985
+    id: EH_AE_AY
+    start: 0.885
+    type: viseme
+  - end: 1.035
+    id: R_ER
+    start: 0.985
+    type: viseme
+  - end: 1.125
+    id: EH_AE_AY
+    start: 1.035
+    type: viseme
+  - end: 1.175
+    id: EH_AE_AY
+    start: 1.125
+    type: viseme
+  - end: 1.245
+    id: N_NG_D_Z
+    start: 1.175
+    type: viseme
+  - end: 1.395
+    id: AO_AW
+    start: 1.245
+    type: viseme
+  - end: 1.615
+    id: AO_AW
+    start: 1.395
+    type: viseme
+  - end: 1.675
+    id: AA_AH
+    start: 1.615
+    type: viseme
+  - end: 1.765
+    id: N_NG_D_Z
+    start: 1.675
+    type: viseme
+  - end: 2.375
+    id: IDLE
+    start: 1.765
+    type: viseme
+  - end: 2.595
+    id: M_B_P
+    start: 2.375
+    type: viseme
+  - end: 2.665
+    id: N_NG_D_Z
+    start: 2.595
+    type: viseme
+  - end: 2.715
+    id: EY
+    start: 2.665
+    type: viseme
+  - end: 2.765
+    id: AO_AW
+    start: 2.715
+    type: viseme
+  - end: 2.955
+    id: EY
+    start: 2.765
+    type: viseme
+  - end: 3.135
+    id: AO_AW
+    start: 2.955
+    type: viseme
+  - end: 3.775
+    id: AA_AH
+    start: 3.135
+    type: viseme
+  - end: 3.855
+    id: AO_AW
+    start: 3.775
+    type: viseme
+  - end: 3.915
+    id: L
+    start: 3.855
+    type: viseme
+  - end: 3.945
+    id: AO_AW
+    start: 3.915
+    type: viseme
+  - end: 4.105
+    id: AO_AW
+    start: 3.945
+    type: viseme
+  - end: 4.225
+    id: L
+    start: 4.105
+    type: viseme
+  - end: 4.365
+    id: EY
+    start: 4.225
+    type: viseme
+  - end: 4.495
+    id: AA_AH
+    start: 4.365
+    type: viseme
+  - end: 4.725
+    id: AO_AW
+    start: 4.495
+    type: viseme
+  - end: 4.775
+    id: M_B_P
+    start: 4.725
+    type: viseme
+  - end: 4.975
+    id: EH_AE_AY
+    start: 4.775
+    type: viseme
+  - end: 5.075
+    id: N_NG_D_Z
+    start: 4.975
+    type: viseme
+  - end: 5.125
+    id: EH_AE_AY
+    start: 5.075
+    type: viseme
+  - end: 5.235
+    id: N_NG_D_Z
+    start: 5.125
+    type: viseme
+  - end: 5.565
+    id: M_B_P
+    start: 5.235
+    type: viseme
+  - end: 5.635
+    id: EH_AE_AY
+    start: 5.565
+    type: viseme
+  - end: 5.805
+    id: M_B_P
+    start: 5.635
+    type: viseme
+  - end: 6.005
+    id: EY
+    start: 5.805
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_hereigosteptwo_c100.wav
+  text: <chilly_hereigosteptwo_c100 missing text>
+chilly_introwithsister_c100:
+  actions:
+  - end: 0.095
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.645
+    id: AA_AH
+    start: 0.095
+    type: viseme
+  - end: 0.675
+    id: AO_AW
+    start: 0.645
+    type: viseme
+  - end: 1.075
+    id: M_B_P
+    start: 0.675
+    type: viseme
+  - end: 1.135
+    id: N_NG_D_Z
+    start: 1.075
+    type: viseme
+  - end: 1.225
+    id: EH_AE_AY
+    start: 1.135
+    type: viseme
+  - end: 1.305
+    id: EH_AE_AY
+    start: 1.225
+    type: viseme
+  - end: 1.345
+    id: L
+    start: 1.305
+    type: viseme
+  - end: 1.465
+    id: EH_AE_AY
+    start: 1.345
+    type: viseme
+  - end: 1.555
+    id: M_B_P
+    start: 1.465
+    type: viseme
+  - end: 1.725
+    id: EY
+    start: 1.555
+    type: viseme
+  - end: 1.765
+    id: L
+    start: 1.725
+    type: viseme
+  - end: 1.905
+    id: EY
+    start: 1.765
+    type: viseme
+  - end: 1.965
+    id: N_NG_D_Z
+    start: 1.905
+    type: viseme
+  - end: 2.125
+    id: AO_AW
+    start: 1.965
+    type: viseme
+  - end: 2.185
+    id: EH_AE_AY
+    start: 2.125
+    type: viseme
+  - end: 2.225
+    id: N_NG_D_Z
+    start: 2.185
+    type: viseme
+  - end: 2.375
+    id: EY
+    start: 2.225
+    type: viseme
+  - end: 2.445
+    id: EH_AE_AY
+    start: 2.375
+    type: viseme
+  - end: 2.495
+    id: EY
+    start: 2.445
+    type: viseme
+  - end: 2.555
+    id: N_NG_D_Z
+    start: 2.495
+    type: viseme
+  - end: 2.735
+    id: AA_AH
+    start: 2.555
+    type: viseme
+  - end: 2.775
+    id: EH_AE_AY
+    start: 2.735
+    type: viseme
+  - end: 2.895
+    id: M_B_P
+    start: 2.775
+    type: viseme
+  - end: 2.935
+    id: M_B_P
+    start: 2.895
+    type: viseme
+  - end: 2.985
+    id: EH_AE_AY
+    start: 2.935
+    type: viseme
+  - end: 3.065
+    id: L
+    start: 2.985
+    type: viseme
+  - end: 3.165
+    id: CH_SH_ZH
+    start: 3.065
+    type: viseme
+  - end: 3.265
+    id: EH_AE_AY
+    start: 3.165
+    type: viseme
+  - end: 3.395
+    id: EH_AE_AY
+    start: 3.265
+    type: viseme
+  - end: 3.445
+    id: N_NG_D_Z
+    start: 3.395
+    type: viseme
+  - end: 3.485
+    id: EY
+    start: 3.445
+    type: viseme
+  - end: 3.535
+    id: AO_AW
+    start: 3.485
+    type: viseme
+  - end: 3.595
+    id: L
+    start: 3.535
+    type: viseme
+  - end: 3.795
+    id: EY
+    start: 3.595
+    type: viseme
+  - end: 3.845
+    id: N_NG_D_Z
+    start: 3.795
+    type: viseme
+  - end: 3.895
+    id: EH_AE_AY
+    start: 3.845
+    type: viseme
+  - end: 3.955
+    id: N_NG_D_Z
+    start: 3.895
+    type: viseme
+  - end: 3.995
+    id: EH_AE_AY
+    start: 3.955
+    type: viseme
+  - end: 4.025
+    id: R_ER
+    start: 3.995
+    type: viseme
+  - end: 4.175
+    id: AA_AH
+    start: 4.025
+    type: viseme
+  - end: 4.215
+    id: M_B_P
+    start: 4.175
+    type: viseme
+  - end: 4.355
+    id: AA_AH
+    start: 4.215
+    type: viseme
+  - end: 4.455
+    id: N_NG_D_Z
+    start: 4.355
+    type: viseme
+  - end: 4.745
+    id: AO_AW
+    start: 4.455
+    type: viseme
+  - end: 4.785
+    id: N_NG_D_Z
+    start: 4.745
+    type: viseme
+  - end: 4.845
+    id: EY
+    start: 4.785
+    type: viseme
+  - end: 4.935
+    id: N_NG_D_Z
+    start: 4.845
+    type: viseme
+  - end: 5.005
+    id: CH_SH_ZH
+    start: 4.935
+    type: viseme
+  - end: 5.155
+    id: EH_AE_AY
+    start: 5.005
+    type: viseme
+  - end: 5.215
+    id: N_NG_D_Z
+    start: 5.155
+    type: viseme
+  - end: 5.255
+    id: M_B_P
+    start: 5.215
+    type: viseme
+  - end: 5.445
+    id: EH_AE_AY
+    start: 5.255
+    type: viseme
+  - end: 5.485
+    id: N_NG_D_Z
+    start: 5.445
+    type: viseme
+  - end: 5.525
+    id: AA_AH
+    start: 5.485
+    type: viseme
+  - end: 5.725
+    id: EY
+    start: 5.525
+    type: viseme
+  - end: 5.895
+    id: EH_AE_AY
+    start: 5.725
+    type: viseme
+  - end: 5.985
+    id: L
+    start: 5.895
+    type: viseme
+  - end: 6.075
+    id: M_B_P
+    start: 5.985
+    type: viseme
+  - end: 6.435
+    id: AA_AH
+    start: 6.075
+    type: viseme
+  - end: 6.465
+    id: AO_AW
+    start: 6.435
+    type: viseme
+  - end: 6.655
+    id: IDLE
+    start: 6.465
+    type: viseme
+  - end: 6.705
+    id: EH_AE_AY
+    start: 6.655
+    type: viseme
+  - end: 6.775
+    id: L
+    start: 6.705
+    type: viseme
+  - end: 6.815
+    id: N_NG_D_Z
+    start: 6.775
+    type: viseme
+  - end: 6.865
+    id: N_NG_D_Z
+    start: 6.815
+    type: viseme
+  - end: 6.935
+    id: AA_AH
+    start: 6.865
+    type: viseme
+  - end: 7.065
+    id: EH_AE_AY
+    start: 6.935
+    type: viseme
+  - end: 7.115
+    id: N_NG_D_Z
+    start: 7.065
+    type: viseme
+  - end: 7.155
+    id: EY
+    start: 7.115
+    type: viseme
+  - end: 7.265
+    id: EH_AE_AY
+    start: 7.155
+    type: viseme
+  - end: 7.335
+    id: L
+    start: 7.265
+    type: viseme
+  - end: 7.365
+    id: M_B_P
+    start: 7.335
+    type: viseme
+  - end: 7.415
+    id: CH_SH_ZH
+    start: 7.365
+    type: viseme
+  - end: 7.465
+    id: EH_AE_AY
+    start: 7.415
+    type: viseme
+  - end: 7.595
+    id: N_NG_D_Z
+    start: 7.465
+    type: viseme
+  - end: 7.815
+    id: EH_AE_AY
+    start: 7.595
+    type: viseme
+  - end: 7.995
+    id: EH_AE_AY
+    start: 7.815
+    type: viseme
+  - end: 8.125
+    id: N_NG_D_Z
+    start: 7.995
+    type: viseme
+  - end: 8.165
+    id: N_NG_D_Z
+    start: 8.125
+    type: viseme
+  - end: 8.195
+    id: EH_AE_AY
+    start: 8.165
+    type: viseme
+  - end: 8.245
+    id: R_ER
+    start: 8.195
+    type: viseme
+  - end: 8.335
+    id: EY
+    start: 8.245
+    type: viseme
+  - end: 8.455
+    id: L
+    start: 8.335
+    type: viseme
+  - end: 8.555
+    id: AA_AH
+    start: 8.455
+    type: viseme
+  - end: 8.605
+    id: L
+    start: 8.555
+    type: viseme
+  - end: 8.775
+    id: EY
+    start: 8.605
+    type: viseme
+  - end: 8.825
+    id: M_B_P
+    start: 8.775
+    type: viseme
+  - end: 8.895
+    id: AO_AW
+    start: 8.825
+    type: viseme
+  - end: 8.935
+    id: L
+    start: 8.895
+    type: viseme
+  - end: 9.015
+    id: N_NG_D_Z
+    start: 8.935
+    type: viseme
+  - end: 9.155
+    id: EY
+    start: 9.015
+    type: viseme
+  - end: 9.185
+    id: N_NG_D_Z
+    start: 9.155
+    type: viseme
+  - end: 9.235
+    id: AA_AH
+    start: 9.185
+    type: viseme
+  - end: 9.355
+    id: AA_AH
+    start: 9.235
+    type: viseme
+  - end: 9.455
+    id: L
+    start: 9.355
+    type: viseme
+  - end: 9.495
+    id: N_NG_D_Z
+    start: 9.455
+    type: viseme
+  - end: 9.635
+    id: EH_AE_AY
+    start: 9.495
+    type: viseme
+  - end: 9.755
+    id: EY
+    start: 9.635
+    type: viseme
+  - end: 9.795
+    id: EH_AE_AY
+    start: 9.755
+    type: viseme
+  - end: 9.875
+    id: N_NG_D_Z
+    start: 9.795
+    type: viseme
+  - end: 10.135
+    id: AA_AH
+    start: 9.875
+    type: viseme
+  - end: 10.205
+    id: EH_AE_AY
+    start: 10.135
+    type: viseme
+  - end: 10.305
+    id: M_B_P
+    start: 10.205
+    type: viseme
+  - end: 10.355
+    id: N_NG_D_Z
+    start: 10.305
+    type: viseme
+  - end: 10.425
+    id: EH_AE_AY
+    start: 10.355
+    type: viseme
+  - end: 10.495
+    id: AA_AH
+    start: 10.425
+    type: viseme
+  - end: 10.595
+    id: EH_AE_AY
+    start: 10.495
+    type: viseme
+  - end: 10.625
+    id: N_NG_D_Z
+    start: 10.595
+    type: viseme
+  - end: 10.745
+    id: EH_AE_AY
+    start: 10.625
+    type: viseme
+  - end: 10.775
+    id: M_B_P
+    start: 10.745
+    type: viseme
+  - end: 10.805
+    id: M_B_P
+    start: 10.775
+    type: viseme
+  - end: 10.905
+    id: EH_AE_AY
+    start: 10.805
+    type: viseme
+  - end: 10.965
+    id: L
+    start: 10.905
+    type: viseme
+  - end: 11.065
+    id: EH_AE_AY
+    start: 10.965
+    type: viseme
+  - end: 11.175
+    id: N_NG_D_Z
+    start: 11.065
+    type: viseme
+  - end: 11.235
+    id: EH_AE_AY
+    start: 11.175
+    type: viseme
+  - end: 11.325
+    id: N_NG_D_Z
+    start: 11.235
+    type: viseme
+  - end: 11.365
+    id: N_NG_D_Z
+    start: 11.325
+    type: viseme
+  - end: 11.485
+    id: EH_AE_AY
+    start: 11.365
+    type: viseme
+  - end: 11.525
+    id: N_NG_D_Z
+    start: 11.485
+    type: viseme
+  - end: 11.605
+    id: AA_AH
+    start: 11.525
+    type: viseme
+  - end: 11.725
+    id: EH_AE_AY
+    start: 11.605
+    type: viseme
+  - end: 11.965
+    id: EH_AE_AY
+    start: 11.725
+    type: viseme
+  - end: 12.015
+    id: L
+    start: 11.965
+    type: viseme
+  - end: 12.105
+    id: EY
+    start: 12.015
+    type: viseme
+  - end: 12.155
+    id: AA_AH
+    start: 12.105
+    type: viseme
+  - end: 12.235
+    id: AA_AH
+    start: 12.155
+    type: viseme
+  - end: 12.305
+    id: N_NG_D_Z
+    start: 12.235
+    type: viseme
+  - end: 12.355
+    id: AO_AW
+    start: 12.305
+    type: viseme
+  - end: 12.425
+    id: EH_AE_AY
+    start: 12.355
+    type: viseme
+  - end: 12.595
+    id: AA_AH
+    start: 12.425
+    type: viseme
+  - end: 12.655
+    id: R_ER
+    start: 12.595
+    type: viseme
+  - end: 12.755
+    id: EH_AE_AY
+    start: 12.655
+    type: viseme
+  - end: 12.915
+    id: EY
+    start: 12.755
+    type: viseme
+  - end: 12.995
+    id: N_NG_D_Z
+    start: 12.915
+    type: viseme
+  - end: 13.125
+    id: AA_AH
+    start: 12.995
+    type: viseme
+  - end: 13.175
+    id: R_ER
+    start: 13.125
+    type: viseme
+  - end: 13.305
+    id: EH_AE_AY
+    start: 13.175
+    type: viseme
+  - end: 13.375
+    id: EY
+    start: 13.305
+    type: viseme
+  - end: 13.415
+    id: AA_AH
+    start: 13.375
+    type: viseme
+  - end: 13.445
+    id: EH_AE_AY
+    start: 13.415
+    type: viseme
+  - end: 13.825
+    id: M_B_P
+    start: 13.445
+    type: viseme
+  - end: 14.015
+    id: AA_AH
+    start: 13.825
+    type: viseme
+  - end: 14.065
+    id: EH_AE_AY
+    start: 14.015
+    type: viseme
+  - end: 14.505
+    id: EY
+    start: 14.065
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_introwithsister_c100.wav
+  text: <chilly_introwithsister_c100 missing text>
+chilly_needmorepractice_c100:
+  actions:
+  - end: 0.855
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.915
+    id: N_NG_D_Z
+    start: 0.855
+    type: viseme
+  - end: 0.985
+    id: EY
+    start: 0.915
+    type: viseme
+  - end: 1.055
+    id: N_NG_D_Z
+    start: 0.985
+    type: viseme
+  - end: 1.085
+    id: N_NG_D_Z
+    start: 1.055
+    type: viseme
+  - end: 1.155
+    id: EY
+    start: 1.085
+    type: viseme
+  - end: 1.255
+    id: L
+    start: 1.155
+    type: viseme
+  - end: 1.295
+    id: N_NG_D_Z
+    start: 1.255
+    type: viseme
+  - end: 1.375
+    id: EH_AE_AY
+    start: 1.295
+    type: viseme
+  - end: 1.425
+    id: L
+    start: 1.375
+    type: viseme
+  - end: 1.465
+    id: EH_AE_AY
+    start: 1.425
+    type: viseme
+  - end: 1.535
+    id: L
+    start: 1.465
+    type: viseme
+  - end: 1.575
+    id: EY
+    start: 1.535
+    type: viseme
+  - end: 1.675
+    id: EY
+    start: 1.575
+    type: viseme
+  - end: 1.725
+    id: L
+    start: 1.675
+    type: viseme
+  - end: 1.855
+    id: AO_AW
+    start: 1.725
+    type: viseme
+  - end: 1.885
+    id: N_NG_D_Z
+    start: 1.855
+    type: viseme
+  - end: 1.965
+    id: AA_AH
+    start: 1.885
+    type: viseme
+  - end: 2.045
+    id: L
+    start: 1.965
+    type: viseme
+  - end: 2.175
+    id: EH_AE_AY
+    start: 2.045
+    type: viseme
+  - end: 2.225
+    id: M_B_P
+    start: 2.175
+    type: viseme
+  - end: 2.355
+    id: AA_AH
+    start: 2.225
+    type: viseme
+  - end: 2.385
+    id: CH_SH_ZH
+    start: 2.355
+    type: viseme
+  - end: 2.525
+    id: EH_AE_AY
+    start: 2.385
+    type: viseme
+  - end: 2.625
+    id: M_B_P
+    start: 2.525
+    type: viseme
+  - end: 2.665
+    id: N_NG_D_Z
+    start: 2.625
+    type: viseme
+  - end: 2.815
+    id: EH_AE_AY
+    start: 2.665
+    type: viseme
+  - end: 2.855
+    id: N_NG_D_Z
+    start: 2.815
+    type: viseme
+  - end: 2.885
+    id: AA_AH
+    start: 2.855
+    type: viseme
+  - end: 2.925
+    id: EY
+    start: 2.885
+    type: viseme
+  - end: 2.975
+    id: N_NG_D_Z
+    start: 2.925
+    type: viseme
+  - end: 3.325
+    id: M_B_P
+    start: 2.975
+    type: viseme
+  - end: 3.415
+    id: N_NG_D_Z
+    start: 3.325
+    type: viseme
+  - end: 3.455
+    id: CH_SH_ZH
+    start: 3.415
+    type: viseme
+  - end: 3.555
+    id: AO_AW
+    start: 3.455
+    type: viseme
+  - end: 3.645
+    id: EY
+    start: 3.555
+    type: viseme
+  - end: 3.675
+    id: N_NG_D_Z
+    start: 3.645
+    type: viseme
+  - end: 3.705
+    id: EY
+    start: 3.675
+    type: viseme
+  - end: 3.755
+    id: N_NG_D_Z
+    start: 3.705
+    type: viseme
+  - end: 3.935
+    id: EH_AE_AY
+    start: 3.755
+    type: viseme
+  - end: 3.985
+    id: N_NG_D_Z
+    start: 3.935
+    type: viseme
+  - end: 4.185
+    id: AO_AW
+    start: 3.985
+    type: viseme
+  - end: 4.245
+    id: CH_SH_ZH
+    start: 4.185
+    type: viseme
+  - end: 4.295
+    id: R_ER
+    start: 4.245
+    type: viseme
+  - end: 4.395
+    id: EY
+    start: 4.295
+    type: viseme
+  - end: 4.505
+    id: N_NG_D_Z
+    start: 4.395
+    type: viseme
+  - end: 4.545
+    id: N_NG_D_Z
+    start: 4.505
+    type: viseme
+  - end: 4.695
+    id: EH_AE_AY
+    start: 4.545
+    type: viseme
+  - end: 4.725
+    id: N_NG_D_Z
+    start: 4.695
+    type: viseme
+  - end: 4.835
+    id: N_NG_D_Z
+    start: 4.725
+    type: viseme
+  - end: 4.925
+    id: CH_SH_ZH
+    start: 4.835
+    type: viseme
+  - end: 5.075
+    id: EH_AE_AY
+    start: 4.925
+    type: viseme
+  - end: 5.105
+    id: N_NG_D_Z
+    start: 5.075
+    type: viseme
+  - end: 5.155
+    id: M_B_P
+    start: 5.105
+    type: viseme
+  - end: 5.265
+    id: EH_AE_AY
+    start: 5.155
+    type: viseme
+  - end: 5.395
+    id: L
+    start: 5.265
+    type: viseme
+  - end: 5.455
+    id: EH_AE_AY
+    start: 5.395
+    type: viseme
+  - end: 5.495
+    id: R_ER
+    start: 5.455
+    type: viseme
+  - end: 5.545
+    id: N_NG_D_Z
+    start: 5.495
+    type: viseme
+  - end: 5.625
+    id: AA_AH
+    start: 5.545
+    type: viseme
+  - end: 5.835
+    id: EH_AE_AY
+    start: 5.625
+    type: viseme
+  - end: 5.925
+    id: CH_SH_ZH
+    start: 5.835
+    type: viseme
+  - end: 6.015
+    id: R_ER
+    start: 5.925
+    type: viseme
+  - end: 6.065
+    id: L
+    start: 6.015
+    type: viseme
+  - end: 6.195
+    id: EY
+    start: 6.065
+    type: viseme
+  - end: 6.265
+    id: AO_AW
+    start: 6.195
+    type: viseme
+  - end: 6.295
+    id: M_B_P
+    start: 6.265
+    type: viseme
+  - end: 6.545
+    id: M_B_P
+    start: 6.295
+    type: viseme
+  - end: 6.645
+    id: IDLE
+    start: 6.545
+    type: viseme
+  - end: 6.725
+    id: N_NG_D_Z
+    start: 6.645
+    type: viseme
+  - end: 7.325
+    id: IDLE
+    start: 6.725
+    type: viseme
+  - end: 7.385
+    id: AA_AH
+    start: 7.325
+    type: viseme
+  - end: 7.695
+    id: M_B_P
+    start: 7.385
+    type: viseme
+  - end: 8.005
+    id: IDLE
+    start: 7.695
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_needmorepractice_c100.wav
+  text: <chilly_needmorepractice_c100 missing text>
+chilly_nicetomeetyou_c100:
+  actions:
+  - end: 0.665
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.765
+    id: AA_AH
+    start: 0.665
+    type: viseme
+  - end: 1.105
+    id: EH_AE_AY
+    start: 0.765
+    type: viseme
+  - end: 1.175
+    id: N_NG_D_Z
+    start: 1.105
+    type: viseme
+  - end: 1.375
+    id: EH_AE_AY
+    start: 1.175
+    type: viseme
+  - end: 1.415
+    id: N_NG_D_Z
+    start: 1.375
+    type: viseme
+  - end: 1.565
+    id: CH_SH_ZH
+    start: 1.415
+    type: viseme
+  - end: 1.655
+    id: EH_AE_AY
+    start: 1.565
+    type: viseme
+  - end: 1.705
+    id: R_ER
+    start: 1.655
+    type: viseme
+  - end: 1.875
+    id: EY
+    start: 1.705
+    type: viseme
+  - end: 1.945
+    id: AA_AH
+    start: 1.875
+    type: viseme
+  - end: 2.005
+    id: M_B_P
+    start: 1.945
+    type: viseme
+  - end: 2.265
+    id: IDLE
+    start: 2.005
+    type: viseme
+  - end: 2.355
+    id: M_B_P
+    start: 2.265
+    type: viseme
+  - end: 2.445
+    id: EH_AE_AY
+    start: 2.355
+    type: viseme
+  - end: 2.475
+    id: L
+    start: 2.445
+    type: viseme
+  - end: 2.555
+    id: EY
+    start: 2.475
+    type: viseme
+  - end: 2.585
+    id: N_NG_D_Z
+    start: 2.555
+    type: viseme
+  - end: 2.645
+    id: N_NG_D_Z
+    start: 2.585
+    type: viseme
+  - end: 2.835
+    id: EH_AE_AY
+    start: 2.645
+    type: viseme
+  - end: 2.935
+    id: L
+    start: 2.835
+    type: viseme
+  - end: 3.035
+    id: EY
+    start: 2.935
+    type: viseme
+  - end: 3.205
+    id: EH_AE_AY
+    start: 3.035
+    type: viseme
+  - end: 3.285
+    id: M_B_P
+    start: 3.205
+    type: viseme
+  - end: 3.425
+    id: IDLE
+    start: 3.285
+    type: viseme
+  - end: 3.505
+    id: EY
+    start: 3.425
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_nicetomeetyou_c100.wav
+  text: <chilly_nicetomeetyou_c100 missing text>
+chilly_notsuchagreatday_c100:
+  actions:
+  - end: 0.765
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.795
+    id: N_NG_D_Z
+    start: 0.765
+    type: viseme
+  - end: 0.835
+    id: EH_AE_AY
+    start: 0.795
+    type: viseme
+  - end: 0.865
+    id: N_NG_D_Z
+    start: 0.835
+    type: viseme
+  - end: 1.075
+    id: EY
+    start: 0.865
+    type: viseme
+  - end: 1.145
+    id: L
+    start: 1.075
+    type: viseme
+  - end: 1.245
+    id: EH_AE_AY
+    start: 1.145
+    type: viseme
+  - end: 1.325
+    id: N_NG_D_Z
+    start: 1.245
+    type: viseme
+  - end: 1.395
+    id: EH_AE_AY
+    start: 1.325
+    type: viseme
+  - end: 1.595
+    id: EH_AE_AY
+    start: 1.395
+    type: viseme
+  - end: 1.625
+    id: N_NG_D_Z
+    start: 1.595
+    type: viseme
+  - end: 1.675
+    id: N_NG_D_Z
+    start: 1.625
+    type: viseme
+  - end: 1.715
+    id: L
+    start: 1.675
+    type: viseme
+  - end: 1.895
+    id: EH_AE_AY
+    start: 1.715
+    type: viseme
+  - end: 1.935
+    id: R_ER
+    start: 1.895
+    type: viseme
+  - end: 2.095
+    id: N_NG_D_Z
+    start: 1.935
+    type: viseme
+  - end: 2.235
+    id: EH_AE_AY
+    start: 2.095
+    type: viseme
+  - end: 2.305
+    id: N_NG_D_Z
+    start: 2.235
+    type: viseme
+  - end: 2.355
+    id: EH_AE_AY
+    start: 2.305
+    type: viseme
+  - end: 2.395
+    id: N_NG_D_Z
+    start: 2.355
+    type: viseme
+  - end: 2.425
+    id: N_NG_D_Z
+    start: 2.395
+    type: viseme
+  - end: 2.615
+    id: EY
+    start: 2.425
+    type: viseme
+  - end: 2.655
+    id: N_NG_D_Z
+    start: 2.615
+    type: viseme
+  - end: 2.685
+    id: N_NG_D_Z
+    start: 2.655
+    type: viseme
+  - end: 2.885
+    id: EY
+    start: 2.685
+    type: viseme
+  - end: 3.005
+    id: N_NG_D_Z
+    start: 2.885
+    type: viseme
+  - end: 3.065
+    id: AO_AW
+    start: 3.005
+    type: viseme
+  - end: 3.105
+    id: L
+    start: 3.065
+    type: viseme
+  - end: 3.245
+    id: EH_AE_AY
+    start: 3.105
+    type: viseme
+  - end: 3.285
+    id: EY
+    start: 3.245
+    type: viseme
+  - end: 3.345
+    id: L
+    start: 3.285
+    type: viseme
+  - end: 3.395
+    id: EH_AE_AY
+    start: 3.345
+    type: viseme
+  - end: 3.535
+    id: N_NG_D_Z
+    start: 3.395
+    type: viseme
+  - end: 3.575
+    id: N_NG_D_Z
+    start: 3.535
+    type: viseme
+  - end: 3.755
+    id: EH_AE_AY
+    start: 3.575
+    type: viseme
+  - end: 3.835
+    id: N_NG_D_Z
+    start: 3.755
+    type: viseme
+  - end: 3.985
+    id: N_NG_D_Z
+    start: 3.835
+    type: viseme
+  - end: 5.585
+    id: IDLE
+    start: 3.985
+    type: viseme
+  - end: 6.005
+    id: EY
+    start: 5.585
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_notsuchagreatday_c100.wav
+  text: <chilly_notsuchagreatday_c100 missing text>
+chilly_pleasebegentle_c100:
+  actions:
+  - end: 0.715
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.825
+    id: N_NG_D_Z
+    start: 0.715
+    type: viseme
+  - end: 0.875
+    id: EY
+    start: 0.825
+    type: viseme
+  - end: 0.945
+    id: EY
+    start: 0.875
+    type: viseme
+  - end: 1.035
+    id: EH_AE_AY
+    start: 0.945
+    type: viseme
+  - end: 1.085
+    id: N_NG_D_Z
+    start: 1.035
+    type: viseme
+  - end: 1.145
+    id: N_NG_D_Z
+    start: 1.085
+    type: viseme
+  - end: 1.185
+    id: M_B_P
+    start: 1.145
+    type: viseme
+  - end: 1.285
+    id: EY
+    start: 1.185
+    type: viseme
+  - end: 1.385
+    id: CH_SH_ZH
+    start: 1.285
+    type: viseme
+  - end: 1.505
+    id: EH_AE_AY
+    start: 1.385
+    type: viseme
+  - end: 1.545
+    id: N_NG_D_Z
+    start: 1.505
+    type: viseme
+  - end: 1.635
+    id: N_NG_D_Z
+    start: 1.545
+    type: viseme
+  - end: 1.705
+    id: AA_AH
+    start: 1.635
+    type: viseme
+  - end: 1.785
+    id: L
+    start: 1.705
+    type: viseme
+  - end: 1.835
+    id: EH_AE_AY
+    start: 1.785
+    type: viseme
+  - end: 1.875
+    id: M_B_P
+    start: 1.835
+    type: viseme
+  - end: 1.925
+    id: AA_AH
+    start: 1.875
+    type: viseme
+  - end: 1.965
+    id: AA_AH
+    start: 1.925
+    type: viseme
+  - end: 2.085
+    id: EY
+    start: 1.965
+    type: viseme
+  - end: 2.175
+    id: L
+    start: 2.085
+    type: viseme
+  - end: 2.395
+    id: N_NG_D_Z
+    start: 2.175
+    type: viseme
+  - end: 2.445
+    id: N_NG_D_Z
+    start: 2.395
+    type: viseme
+  - end: 2.575
+    id: IDLE
+    start: 2.445
+    type: viseme
+  - end: 2.625
+    id: EH_AE_AY
+    start: 2.575
+    type: viseme
+  - end: 2.685
+    id: R_ER
+    start: 2.625
+    type: viseme
+  - end: 2.765
+    id: N_NG_D_Z
+    start: 2.685
+    type: viseme
+  - end: 2.825
+    id: N_NG_D_Z
+    start: 2.765
+    type: viseme
+  - end: 3.075
+    id: EH_AE_AY
+    start: 2.825
+    type: viseme
+  - end: 3.165
+    id: M_B_P
+    start: 3.075
+    type: viseme
+  - end: 3.205
+    id: M_B_P
+    start: 3.165
+    type: viseme
+  - end: 3.335
+    id: EH_AE_AY
+    start: 3.205
+    type: viseme
+  - end: 3.365
+    id: L
+    start: 3.335
+    type: viseme
+  - end: 3.445
+    id: EY
+    start: 3.365
+    type: viseme
+  - end: 3.485
+    id: M_B_P
+    start: 3.445
+    type: viseme
+  - end: 3.615
+    id: EY
+    start: 3.485
+    type: viseme
+  - end: 3.695
+    id: N_NG_D_Z
+    start: 3.615
+    type: viseme
+  - end: 3.925
+    id: EH_AE_AY
+    start: 3.695
+    type: viseme
+  - end: 3.955
+    id: N_NG_D_Z
+    start: 3.925
+    type: viseme
+  - end: 4.275
+    id: EH_AE_AY
+    start: 3.955
+    type: viseme
+  - end: 4.365
+    id: M_B_P
+    start: 4.275
+    type: viseme
+  - end: 4.455
+    id: M_B_P
+    start: 4.365
+    type: viseme
+  - end: 4.935
+    id: IDLE
+    start: 4.455
+    type: viseme
+  - end: 5.005
+    id: EY
+    start: 4.935
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_pleasebegentle_c100.wav
+  text: <chilly_pleasebegentle_c100 missing text>
+chilly_readyforallthreesteps_c100:
+  actions:
+  - end: 0.705
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.915
+    id: IDLE
+    start: 0.705
+    type: viseme
+  - end: 1.025
+    id: EH_AE_AY
+    start: 0.915
+    type: viseme
+  - end: 1.105
+    id: L
+    start: 1.025
+    type: viseme
+  - end: 1.265
+    id: EH_AE_AY
+    start: 1.105
+    type: viseme
+  - end: 1.465
+    id: EY
+    start: 1.265
+    type: viseme
+  - end: 1.505
+    id: CH_SH_ZH
+    start: 1.465
+    type: viseme
+  - end: 1.655
+    id: EH_AE_AY
+    start: 1.505
+    type: viseme
+  - end: 1.695
+    id: N_NG_D_Z
+    start: 1.655
+    type: viseme
+  - end: 1.855
+    id: AA_AH
+    start: 1.695
+    type: viseme
+  - end: 1.945
+    id: L
+    start: 1.855
+    type: viseme
+  - end: 2.005
+    id: N_NG_D_Z
+    start: 1.945
+    type: viseme
+  - end: 2.055
+    id: R_ER
+    start: 2.005
+    type: viseme
+  - end: 2.195
+    id: EY
+    start: 2.055
+    type: viseme
+  - end: 2.325
+    id: N_NG_D_Z
+    start: 2.195
+    type: viseme
+  - end: 2.355
+    id: N_NG_D_Z
+    start: 2.325
+    type: viseme
+  - end: 2.525
+    id: EH_AE_AY
+    start: 2.355
+    type: viseme
+  - end: 2.575
+    id: N_NG_D_Z
+    start: 2.525
+    type: viseme
+  - end: 2.645
+    id: N_NG_D_Z
+    start: 2.575
+    type: viseme
+  - end: 2.805
+    id: EH_AE_AY
+    start: 2.645
+    type: viseme
+  - end: 2.935
+    id: AO_AW
+    start: 2.805
+    type: viseme
+  - end: 3.365
+    id: M_B_P
+    start: 2.935
+    type: viseme
+  - end: 3.585
+    id: AA_AH
+    start: 3.365
+    type: viseme
+  - end: 3.625
+    id: EH_AE_AY
+    start: 3.585
+    type: viseme
+  - end: 4.005
+    id: EY
+    start: 3.625
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_readyforallthreesteps_c100.wav
+  text: <chilly_readyforallthreesteps_c100 missing text>
+chilly_readyfornextstep_c100:
+  actions:
+  - end: 0.685
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.735
+    id: N_NG_D_Z
+    start: 0.685
+    type: viseme
+  - end: 0.855
+    id: EH_AE_AY
+    start: 0.735
+    type: viseme
+  - end: 0.935
+    id: R_ER
+    start: 0.855
+    type: viseme
+  - end: 1.095
+    id: EH_AE_AY
+    start: 0.935
+    type: viseme
+  - end: 1.235
+    id: EY
+    start: 1.095
+    type: viseme
+  - end: 1.335
+    id: AA_AH
+    start: 1.235
+    type: viseme
+  - end: 1.485
+    id: EH_AE_AY
+    start: 1.335
+    type: viseme
+  - end: 1.535
+    id: EH_AE_AY
+    start: 1.485
+    type: viseme
+  - end: 1.585
+    id: L
+    start: 1.535
+    type: viseme
+  - end: 1.625
+    id: N_NG_D_Z
+    start: 1.585
+    type: viseme
+  - end: 1.755
+    id: EH_AE_AY
+    start: 1.625
+    type: viseme
+  - end: 1.785
+    id: N_NG_D_Z
+    start: 1.755
+    type: viseme
+  - end: 1.855
+    id: N_NG_D_Z
+    start: 1.785
+    type: viseme
+  - end: 1.985
+    id: N_NG_D_Z
+    start: 1.855
+    type: viseme
+  - end: 2.015
+    id: N_NG_D_Z
+    start: 1.985
+    type: viseme
+  - end: 2.285
+    id: EH_AE_AY
+    start: 2.015
+    type: viseme
+  - end: 2.395
+    id: M_B_P
+    start: 2.285
+    type: viseme
+  - end: 2.705
+    id: AA_AH
+    start: 2.395
+    type: viseme
+  - end: 2.765
+    id: EH_AE_AY
+    start: 2.705
+    type: viseme
+  - end: 3.135
+    id: IDLE
+    start: 2.765
+    type: viseme
+  - end: 3.195
+    id: N_NG_D_Z
+    start: 3.135
+    type: viseme
+  - end: 3.275
+    id: M_B_P
+    start: 3.195
+    type: viseme
+  - end: 3.505
+    id: EY
+    start: 3.275
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_readyfornextstep_c100.wav
+  text: <chilly_readyfornextstep_c100 missing text>
+chilly_sorrycantdothat_c100:
+  actions:
+  - end: 0.765
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.815
+    id: N_NG_D_Z
+    start: 0.765
+    type: viseme
+  - end: 0.995
+    id: AO_AW
+    start: 0.815
+    type: viseme
+  - end: 1.185
+    id: AA_AH
+    start: 0.995
+    type: viseme
+  - end: 1.225
+    id: N_NG_D_Z
+    start: 1.185
+    type: viseme
+  - end: 1.325
+    id: N_NG_D_Z
+    start: 1.225
+    type: viseme
+  - end: 1.385
+    id: M_B_P
+    start: 1.325
+    type: viseme
+  - end: 1.545
+    id: AA_AH
+    start: 1.385
+    type: viseme
+  - end: 1.625
+    id: R_ER
+    start: 1.545
+    type: viseme
+  - end: 1.825
+    id: EY
+    start: 1.625
+    type: viseme
+  - end: 1.935
+    id: N_NG_D_Z
+    start: 1.825
+    type: viseme
+  - end: 2.235
+    id: IDLE
+    start: 1.935
+    type: viseme
+  - end: 2.335
+    id: EH_AE_AY
+    start: 2.235
+    type: viseme
+  - end: 2.375
+    id: N_NG_D_Z
+    start: 2.335
+    type: viseme
+  - end: 2.435
+    id: N_NG_D_Z
+    start: 2.375
+    type: viseme
+  - end: 2.495
+    id: L
+    start: 2.435
+    type: viseme
+  - end: 2.605
+    id: EH_AE_AY
+    start: 2.495
+    type: viseme
+  - end: 2.705
+    id: AO_AW
+    start: 2.605
+    type: viseme
+  - end: 2.755
+    id: N_NG_D_Z
+    start: 2.705
+    type: viseme
+  - end: 2.855
+    id: EY
+    start: 2.755
+    type: viseme
+  - end: 2.905
+    id: EH_AE_AY
+    start: 2.855
+    type: viseme
+  - end: 2.955
+    id: N_NG_D_Z
+    start: 2.905
+    type: viseme
+  - end: 3.235
+    id: EH_AE_AY
+    start: 2.955
+    type: viseme
+  - end: 3.295
+    id: N_NG_D_Z
+    start: 3.235
+    type: viseme
+  - end: 3.325
+    id: EH_AE_AY
+    start: 3.295
+    type: viseme
+  - end: 3.525
+    id: M_B_P
+    start: 3.325
+    type: viseme
+  - end: 3.705
+    id: IDLE
+    start: 3.525
+    type: viseme
+  - end: 4.155
+    id: M_B_P
+    start: 3.705
+    type: viseme
+  - end: 4.185
+    id: M_B_P
+    start: 4.155
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.185
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_sorrycantdothat_c100.wav
+  text: <chilly_sorrycantdothat_c100 missing text>
+chilly_stepone_c100:
+  actions:
+  - end: 0.225
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.665
+    id: AA_AH
+    start: 0.225
+    type: viseme
+  - end: 0.815
+    id: AO_AW
+    start: 0.665
+    type: viseme
+  - end: 0.855
+    id: L
+    start: 0.815
+    type: viseme
+  - end: 1.205
+    id: EH_AE_AY
+    start: 0.855
+    type: viseme
+  - end: 1.265
+    id: EH_AE_AY
+    start: 1.205
+    type: viseme
+  - end: 1.595
+    id: M_B_P
+    start: 1.265
+    type: viseme
+  - end: 1.635
+    id: CH_SH_ZH
+    start: 1.595
+    type: viseme
+  - end: 1.795
+    id: AA_AH
+    start: 1.635
+    type: viseme
+  - end: 1.845
+    id: AO_AW
+    start: 1.795
+    type: viseme
+  - end: 1.905
+    id: L
+    start: 1.845
+    type: viseme
+  - end: 2.185
+    id: EH_AE_AY
+    start: 1.905
+    type: viseme
+  - end: 2.235
+    id: N_NG_D_Z
+    start: 2.185
+    type: viseme
+  - end: 2.305
+    id: AA_AH
+    start: 2.235
+    type: viseme
+  - end: 2.405
+    id: EH_AE_AY
+    start: 2.305
+    type: viseme
+  - end: 2.435
+    id: N_NG_D_Z
+    start: 2.405
+    type: viseme
+  - end: 2.535
+    id: EH_AE_AY
+    start: 2.435
+    type: viseme
+  - end: 2.595
+    id: N_NG_D_Z
+    start: 2.535
+    type: viseme
+  - end: 2.985
+    id: AO_AW
+    start: 2.595
+    type: viseme
+  - end: 3.095
+    id: AA_AH
+    start: 2.985
+    type: viseme
+  - end: 3.155
+    id: L
+    start: 3.095
+    type: viseme
+  - end: 3.185
+    id: M_B_P
+    start: 3.155
+    type: viseme
+  - end: 3.245
+    id: N_NG_D_Z
+    start: 3.185
+    type: viseme
+  - end: 3.335
+    id: EY
+    start: 3.245
+    type: viseme
+  - end: 3.505
+    id: EY
+    start: 3.335
+    type: viseme
+  - end: 3.585
+    id: AO_AW
+    start: 3.505
+    type: viseme
+  - end: 3.665
+    id: L
+    start: 3.585
+    type: viseme
+  - end: 3.695
+    id: M_B_P
+    start: 3.665
+    type: viseme
+  - end: 4.385
+    id: M_B_P
+    start: 3.695
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.385
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_stepone_c100.wav
+  text: <chilly_stepone_c100 missing text>
+chilly_stepthree_c100:
+  actions:
+  - end: 0.155
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.635
+    id: AA_AH
+    start: 0.155
+    type: viseme
+  - end: 0.745
+    id: AO_AW
+    start: 0.635
+    type: viseme
+  - end: 0.795
+    id: AA_AH
+    start: 0.745
+    type: viseme
+  - end: 1.205
+    id: EY
+    start: 0.795
+    type: viseme
+  - end: 1.575
+    id: AA_AH
+    start: 1.205
+    type: viseme
+  - end: 1.865
+    id: M_B_P
+    start: 1.575
+    type: viseme
+  - end: 1.905
+    id: EH_AE_AY
+    start: 1.865
+    type: viseme
+  - end: 2.035
+    id: L
+    start: 1.905
+    type: viseme
+  - end: 2.155
+    id: EH_AE_AY
+    start: 2.035
+    type: viseme
+  - end: 2.205
+    id: N_NG_D_Z
+    start: 2.155
+    type: viseme
+  - end: 2.335
+    id: CH_SH_ZH
+    start: 2.205
+    type: viseme
+  - end: 2.435
+    id: EH_AE_AY
+    start: 2.335
+    type: viseme
+  - end: 2.845
+    id: EH_AE_AY
+    start: 2.435
+    type: viseme
+  - end: 2.895
+    id: N_NG_D_Z
+    start: 2.845
+    type: viseme
+  - end: 3.055
+    id: CH_SH_ZH
+    start: 2.895
+    type: viseme
+  - end: 3.145
+    id: EY
+    start: 3.055
+    type: viseme
+  - end: 3.415
+    id: EH_AE_AY
+    start: 3.145
+    type: viseme
+  - end: 3.555
+    id: N_NG_D_Z
+    start: 3.415
+    type: viseme
+  - end: 3.605
+    id: AA_AH
+    start: 3.555
+    type: viseme
+  - end: 3.915
+    id: AO_AW
+    start: 3.605
+    type: viseme
+  - end: 4.115
+    id: M_B_P
+    start: 3.915
+    type: viseme
+  - end: 4.185
+    id: AA_AH
+    start: 4.115
+    type: viseme
+  - end: 4.245
+    id: AO_AW
+    start: 4.185
+    type: viseme
+  - end: 4.355
+    id: M_B_P
+    start: 4.245
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.355
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_stepthree_c100.wav
+  text: <chilly_stepthree_c100 missing text>
+chilly_steptwo_c100:
+  actions:
+  - end: 0.645
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.775
+    id: N_NG_D_Z
+    start: 0.645
+    type: viseme
+  - end: 0.905
+    id: EH_AE_AY
+    start: 0.775
+    type: viseme
+  - end: 0.995
+    id: EH_AE_AY
+    start: 0.905
+    type: viseme
+  - end: 1.105
+    id: AO_AW
+    start: 0.995
+    type: viseme
+  - end: 1.165
+    id: L
+    start: 1.105
+    type: viseme
+  - end: 1.705
+    id: M_B_P
+    start: 1.165
+    type: viseme
+  - end: 1.835
+    id: AO_AW
+    start: 1.705
+    type: viseme
+  - end: 1.895
+    id: L
+    start: 1.835
+    type: viseme
+  - end: 2.075
+    id: AA_AH
+    start: 1.895
+    type: viseme
+  - end: 2.225
+    id: L
+    start: 2.075
+    type: viseme
+  - end: 2.355
+    id: EY
+    start: 2.225
+    type: viseme
+  - end: 2.465
+    id: CH_SH_ZH
+    start: 2.355
+    type: viseme
+  - end: 2.705
+    id: EH_AE_AY
+    start: 2.465
+    type: viseme
+  - end: 2.755
+    id: M_B_P
+    start: 2.705
+    type: viseme
+  - end: 2.965
+    id: EH_AE_AY
+    start: 2.755
+    type: viseme
+  - end: 2.995
+    id: M_B_P
+    start: 2.965
+    type: viseme
+  - end: 3.075
+    id: EY
+    start: 2.995
+    type: viseme
+  - end: 3.665
+    id: M_B_P
+    start: 3.075
+    type: viseme
+  - end: 3.785
+    id: AA_AH
+    start: 3.665
+    type: viseme
+  - end: 3.835
+    id: AO_AW
+    start: 3.785
+    type: viseme
+  - end: 4.005
+    id: EY
+    start: 3.835
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_steptwo_c100.wav
+  text: <chilly_steptwo_c100 missing text>
+chilly_takeanap_c100:
+  actions:
+  - end: 0.375
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.945
+    id: AA_AH
+    start: 0.375
+    type: viseme
+  - end: 1.055
+    id: EH_AE_AY
+    start: 0.945
+    type: viseme
+  - end: 1.085
+    id: N_NG_D_Z
+    start: 1.055
+    type: viseme
+  - end: 1.265
+    id: IDLE
+    start: 1.085
+    type: viseme
+  - end: 1.435
+    id: AA_AH
+    start: 1.265
+    type: viseme
+  - end: 1.565
+    id: AA_AH
+    start: 1.435
+    type: viseme
+  - end: 1.675
+    id: L
+    start: 1.565
+    type: viseme
+  - end: 1.825
+    id: AA_AH
+    start: 1.675
+    type: viseme
+  - end: 1.875
+    id: AA_AH
+    start: 1.825
+    type: viseme
+  - end: 2.715
+    id: EH_AE_AY
+    start: 1.875
+    type: viseme
+  - end: 3.465
+    id: AA_AH
+    start: 2.715
+    type: viseme
+  - end: 3.505
+    id: AO_AW
+    start: 3.465
+    type: viseme
+  - end: 3.555
+    id: L
+    start: 3.505
+    type: viseme
+  - end: 3.655
+    id: EH_AE_AY
+    start: 3.555
+    type: viseme
+  - end: 3.765
+    id: EY
+    start: 3.655
+    type: viseme
+  - end: 3.805
+    id: EY
+    start: 3.765
+    type: viseme
+  - end: 3.875
+    id: AO_AW
+    start: 3.805
+    type: viseme
+  - end: 3.905
+    id: N_NG_D_Z
+    start: 3.875
+    type: viseme
+  - end: 4.055
+    id: EH_AE_AY
+    start: 3.905
+    type: viseme
+  - end: 4.085
+    id: N_NG_D_Z
+    start: 4.055
+    type: viseme
+  - end: 4.235
+    id: N_NG_D_Z
+    start: 4.085
+    type: viseme
+  - end: 4.345
+    id: AO_AW
+    start: 4.235
+    type: viseme
+  - end: 4.385
+    id: N_NG_D_Z
+    start: 4.345
+    type: viseme
+  - end: 4.515
+    id: N_NG_D_Z
+    start: 4.385
+    type: viseme
+  - end: 4.615
+    id: AA_AH
+    start: 4.515
+    type: viseme
+  - end: 4.665
+    id: N_NG_D_Z
+    start: 4.615
+    type: viseme
+  - end: 4.785
+    id: AA_AH
+    start: 4.665
+    type: viseme
+  - end: 4.865
+    id: EH_AE_AY
+    start: 4.785
+    type: viseme
+  - end: 4.965
+    id: EH_AE_AY
+    start: 4.865
+    type: viseme
+  - end: 4.995
+    id: R_ER
+    start: 4.965
+    type: viseme
+  - end: 5.065
+    id: AO_AW
+    start: 4.995
+    type: viseme
+  - end: 5.165
+    id: CH_SH_ZH
+    start: 5.065
+    type: viseme
+  - end: 5.345
+    id: R_ER
+    start: 5.165
+    type: viseme
+  - end: 5.385
+    id: N_NG_D_Z
+    start: 5.345
+    type: viseme
+  - end: 5.465
+    id: N_NG_D_Z
+    start: 5.385
+    type: viseme
+  - end: 5.515
+    id: EH_AE_AY
+    start: 5.465
+    type: viseme
+  - end: 5.615
+    id: N_NG_D_Z
+    start: 5.515
+    type: viseme
+  - end: 5.655
+    id: N_NG_D_Z
+    start: 5.615
+    type: viseme
+  - end: 5.725
+    id: EH_AE_AY
+    start: 5.655
+    type: viseme
+  - end: 5.775
+    id: N_NG_D_Z
+    start: 5.725
+    type: viseme
+  - end: 5.915
+    id: N_NG_D_Z
+    start: 5.775
+    type: viseme
+  - end: 6.005
+    id: EH_AE_AY
+    start: 5.915
+    type: viseme
+  - end: 6.035
+    id: L
+    start: 6.005
+    type: viseme
+  - end: 6.065
+    id: EH_AE_AY
+    start: 6.035
+    type: viseme
+  - end: 6.095
+    id: N_NG_D_Z
+    start: 6.065
+    type: viseme
+  - end: 6.155
+    id: N_NG_D_Z
+    start: 6.095
+    type: viseme
+  - end: 6.255
+    id: AA_AH
+    start: 6.155
+    type: viseme
+  - end: 6.385
+    id: EH_AE_AY
+    start: 6.255
+    type: viseme
+  - end: 6.515
+    id: R_ER
+    start: 6.385
+    type: viseme
+  - end: 6.605
+    id: N_NG_D_Z
+    start: 6.515
+    type: viseme
+  - end: 6.805
+    id: AO_AW
+    start: 6.605
+    type: viseme
+  - end: 6.865
+    id: R_ER
+    start: 6.805
+    type: viseme
+  - end: 6.905
+    id: M_B_P
+    start: 6.865
+    type: viseme
+  - end: 7.115
+    id: AA_AH
+    start: 6.905
+    type: viseme
+  - end: 7.145
+    id: AA_AH
+    start: 7.115
+    type: viseme
+  - end: 7.185
+    id: N_NG_D_Z
+    start: 7.145
+    type: viseme
+  - end: 7.235
+    id: IDLE
+    start: 7.185
+    type: viseme
+  - end: 7.305
+    id: EH_AE_AY
+    start: 7.235
+    type: viseme
+  - end: 7.345
+    id: M_B_P
+    start: 7.305
+    type: viseme
+  - end: 7.395
+    id: N_NG_D_Z
+    start: 7.345
+    type: viseme
+  - end: 7.455
+    id: EY
+    start: 7.395
+    type: viseme
+  - end: 7.485
+    id: L
+    start: 7.455
+    type: viseme
+  - end: 7.535
+    id: N_NG_D_Z
+    start: 7.485
+    type: viseme
+  - end: 7.605
+    id: EH_AE_AY
+    start: 7.535
+    type: viseme
+  - end: 7.755
+    id: R_ER
+    start: 7.605
+    type: viseme
+  - end: 7.795
+    id: EY
+    start: 7.755
+    type: viseme
+  - end: 7.905
+    id: EY
+    start: 7.795
+    type: viseme
+  - end: 7.935
+    id: M_B_P
+    start: 7.905
+    type: viseme
+  - end: 7.985
+    id: CH_SH_ZH
+    start: 7.935
+    type: viseme
+  - end: 8.025
+    id: EH_AE_AY
+    start: 7.985
+    type: viseme
+  - end: 8.065
+    id: N_NG_D_Z
+    start: 8.025
+    type: viseme
+  - end: 8.125
+    id: CH_SH_ZH
+    start: 8.065
+    type: viseme
+  - end: 8.155
+    id: EY
+    start: 8.125
+    type: viseme
+  - end: 8.245
+    id: EH_AE_AY
+    start: 8.155
+    type: viseme
+  - end: 8.305
+    id: N_NG_D_Z
+    start: 8.245
+    type: viseme
+  - end: 8.345
+    id: EH_AE_AY
+    start: 8.305
+    type: viseme
+  - end: 8.375
+    id: N_NG_D_Z
+    start: 8.345
+    type: viseme
+  - end: 8.535
+    id: EH_AE_AY
+    start: 8.375
+    type: viseme
+  - end: 8.675
+    id: R_ER
+    start: 8.535
+    type: viseme
+  - end: 8.755
+    id: M_B_P
+    start: 8.675
+    type: viseme
+  - end: 8.815
+    id: EY
+    start: 8.755
+    type: viseme
+  - end: 10.035
+    id: IDLE
+    start: 8.815
+    type: viseme
+  - end: 10.155
+    id: M_B_P
+    start: 10.035
+    type: viseme
+  - end: 10.505
+    id: EY
+    start: 10.155
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_takeanap_c100.wav
+  text: <chilly_takeanap_c100 missing text>
+chilly_talkaboutthatlater_c100:
+  actions:
+  - end: 0.355
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.475
+    id: AA_AH
+    start: 0.355
+    type: viseme
+  - end: 0.685
+    id: AO_AW
+    start: 0.475
+    type: viseme
+  - end: 0.855
+    id: R_ER
+    start: 0.685
+    type: viseme
+  - end: 0.925
+    id: N_NG_D_Z
+    start: 0.855
+    type: viseme
+  - end: 1.085
+    id: IDLE
+    start: 0.925
+    type: viseme
+  - end: 1.185
+    id: EY
+    start: 1.085
+    type: viseme
+  - end: 1.305
+    id: EH_AE_AY
+    start: 1.185
+    type: viseme
+  - end: 1.345
+    id: N_NG_D_Z
+    start: 1.305
+    type: viseme
+  - end: 1.505
+    id: N_NG_D_Z
+    start: 1.345
+    type: viseme
+  - end: 1.615
+    id: AA_AH
+    start: 1.505
+    type: viseme
+  - end: 1.695
+    id: N_NG_D_Z
+    start: 1.615
+    type: viseme
+  - end: 1.725
+    id: AA_AH
+    start: 1.695
+    type: viseme
+  - end: 1.795
+    id: N_NG_D_Z
+    start: 1.725
+    type: viseme
+  - end: 1.955
+    id: EH_AE_AY
+    start: 1.795
+    type: viseme
+  - end: 2.005
+    id: N_NG_D_Z
+    start: 1.955
+    type: viseme
+  - end: 2.045
+    id: M_B_P
+    start: 2.005
+    type: viseme
+  - end: 2.275
+    id: AO_AW
+    start: 2.045
+    type: viseme
+  - end: 2.335
+    id: CH_SH_ZH
+    start: 2.275
+    type: viseme
+  - end: 2.385
+    id: EH_AE_AY
+    start: 2.335
+    type: viseme
+  - end: 2.475
+    id: L
+    start: 2.385
+    type: viseme
+  - end: 2.735
+    id: AA_AH
+    start: 2.475
+    type: viseme
+  - end: 2.785
+    id: L
+    start: 2.735
+    type: viseme
+  - end: 2.815
+    id: M_B_P
+    start: 2.785
+    type: viseme
+  - end: 2.885
+    id: N_NG_D_Z
+    start: 2.815
+    type: viseme
+  - end: 2.995
+    id: AA_AH
+    start: 2.885
+    type: viseme
+  - end: 3.115
+    id: L
+    start: 2.995
+    type: viseme
+  - end: 3.155
+    id: EH_AE_AY
+    start: 3.115
+    type: viseme
+  - end: 3.225
+    id: N_NG_D_Z
+    start: 3.155
+    type: viseme
+  - end: 3.265
+    id: N_NG_D_Z
+    start: 3.225
+    type: viseme
+  - end: 3.325
+    id: EH_AE_AY
+    start: 3.265
+    type: viseme
+  - end: 3.365
+    id: N_NG_D_Z
+    start: 3.325
+    type: viseme
+  - end: 3.475
+    id: N_NG_D_Z
+    start: 3.365
+    type: viseme
+  - end: 3.545
+    id: AO_AW
+    start: 3.475
+    type: viseme
+  - end: 3.685
+    id: EH_AE_AY
+    start: 3.545
+    type: viseme
+  - end: 3.775
+    id: N_NG_D_Z
+    start: 3.685
+    type: viseme
+  - end: 3.925
+    id: N_NG_D_Z
+    start: 3.775
+    type: viseme
+  - end: 4.995
+    id: IDLE
+    start: 3.925
+    type: viseme
+  - end: 5.075
+    id: M_B_P
+    start: 4.995
+    type: viseme
+  - end: 5.505
+    id: EY
+    start: 5.075
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_talkaboutthatlater_c100.wav
+  text: <chilly_talkaboutthatlater_c100 missing text>
+chilly_thanksforpraise_c100:
+  actions:
+  - end: 0.745
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.805
+    id: M_B_P
+    start: 0.745
+    type: viseme
+  - end: 0.995
+    id: EY
+    start: 0.805
+    type: viseme
+  - end: 1.075
+    id: L
+    start: 0.995
+    type: viseme
+  - end: 1.115
+    id: N_NG_D_Z
+    start: 1.075
+    type: viseme
+  - end: 1.285
+    id: N_NG_D_Z
+    start: 1.115
+    type: viseme
+  - end: 1.485
+    id: IDLE
+    start: 1.285
+    type: viseme
+  - end: 1.525
+    id: N_NG_D_Z
+    start: 1.485
+    type: viseme
+  - end: 1.685
+    id: EH_AE_AY
+    start: 1.525
+    type: viseme
+  - end: 1.745
+    id: EH_AE_AY
+    start: 1.685
+    type: viseme
+  - end: 1.905
+    id: EY
+    start: 1.745
+    type: viseme
+  - end: 1.995
+    id: L
+    start: 1.905
+    type: viseme
+  - end: 2.105
+    id: EY
+    start: 1.995
+    type: viseme
+  - end: 2.185
+    id: EH_AE_AY
+    start: 2.105
+    type: viseme
+  - end: 2.245
+    id: AA_AH
+    start: 2.185
+    type: viseme
+  - end: 2.285
+    id: N_NG_D_Z
+    start: 2.245
+    type: viseme
+  - end: 2.405
+    id: EY
+    start: 2.285
+    type: viseme
+  - end: 2.545
+    id: N_NG_D_Z
+    start: 2.405
+    type: viseme
+  - end: 2.585
+    id: N_NG_D_Z
+    start: 2.545
+    type: viseme
+  - end: 2.695
+    id: EH_AE_AY
+    start: 2.585
+    type: viseme
+  - end: 2.725
+    id: N_NG_D_Z
+    start: 2.695
+    type: viseme
+  - end: 2.865
+    id: N_NG_D_Z
+    start: 2.725
+    type: viseme
+  - end: 2.965
+    id: EY
+    start: 2.865
+    type: viseme
+  - end: 3.015
+    id: CH_SH_ZH
+    start: 2.965
+    type: viseme
+  - end: 3.065
+    id: EY
+    start: 3.015
+    type: viseme
+  - end: 3.155
+    id: EH_AE_AY
+    start: 3.065
+    type: viseme
+  - end: 3.265
+    id: EH_AE_AY
+    start: 3.155
+    type: viseme
+  - end: 3.325
+    id: M_B_P
+    start: 3.265
+    type: viseme
+  - end: 3.375
+    id: M_B_P
+    start: 3.325
+    type: viseme
+  - end: 4.385
+    id: IDLE
+    start: 3.375
+    type: viseme
+  - end: 4.495
+    id: N_NG_D_Z
+    start: 4.385
+    type: viseme
+  - end: 5.005
+    id: EY
+    start: 4.495
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_thanksforpraise_c100.wav
+  text: <chilly_thanksforpraise_c100 missing text>
+chilly_thatsok_c100:
+  actions:
+  - end: 0.715
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.795
+    id: N_NG_D_Z
+    start: 0.715
+    type: viseme
+  - end: 0.855
+    id: M_B_P
+    start: 0.795
+    type: viseme
+  - end: 1.035
+    id: EH_AE_AY
+    start: 0.855
+    type: viseme
+  - end: 1.115
+    id: N_NG_D_Z
+    start: 1.035
+    type: viseme
+  - end: 1.225
+    id: EH_AE_AY
+    start: 1.115
+    type: viseme
+  - end: 1.255
+    id: R_ER
+    start: 1.225
+    type: viseme
+  - end: 1.305
+    id: N_NG_D_Z
+    start: 1.255
+    type: viseme
+  - end: 1.355
+    id: AA_AH
+    start: 1.305
+    type: viseme
+  - end: 1.495
+    id: EH_AE_AY
+    start: 1.355
+    type: viseme
+  - end: 1.715
+    id: EY
+    start: 1.495
+    type: viseme
+  - end: 1.805
+    id: M_B_P
+    start: 1.715
+    type: viseme
+  - end: 2.455
+    id: IDLE
+    start: 1.805
+    type: viseme
+  - end: 2.505
+    id: N_NG_D_Z
+    start: 2.455
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_thatsok_c100.wav
+  text: <chilly_thatsok_c100 missing text>
+chilly_thattickles_c500:
+  actions:
+  - id: surprised
+    start: 0
+    type: expression
+  - end: 0.055
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.165
+    id: M_B_P
+    start: 0.055
+    type: viseme
+  - end: 0.235
+    id: N_NG_D_Z
+    start: 0.165
+    type: viseme
+  - end: 0.295
+    id: EH_AE_AY
+    start: 0.235
+    type: viseme
+  - end: 0.345
+    id: N_NG_D_Z
+    start: 0.295
+    type: viseme
+  - end: 0.585
+    id: EH_AE_AY
+    start: 0.345
+    type: viseme
+  - end: 0.665
+    id: EH_AE_AY
+    start: 0.585
+    type: viseme
+  - end: 0.875
+    id: N_NG_D_Z
+    start: 0.665
+    type: viseme
+  - end: 1.045
+    id: N_NG_D_Z
+    start: 0.875
+    type: viseme
+  - end: 1.535
+    id: IDLE
+    start: 1.045
+    type: viseme
+  - end: 1.565
+    id: M_B_P
+    start: 1.535
+    type: viseme
+  - end: 1.925
+    id: EH_AE_AY
+    start: 1.565
+    type: viseme
+  - end: 1.985
+    id: M_B_P
+    start: 1.925
+    type: viseme
+  - end: 2.035
+    id: N_NG_D_Z
+    start: 1.985
+    type: viseme
+  - end: 2.095
+    id: CH_SH_ZH
+    start: 2.035
+    type: viseme
+  - end: 2.215
+    id: EH_AE_AY
+    start: 2.095
+    type: viseme
+  - end: 2.285
+    id: N_NG_D_Z
+    start: 2.215
+    type: viseme
+  - end: 2.315
+    id: N_NG_D_Z
+    start: 2.285
+    type: viseme
+  - end: 2.585
+    id: AA_AH
+    start: 2.315
+    type: viseme
+  - end: 2.645
+    id: L
+    start: 2.585
+    type: viseme
+  - end: 2.825
+    id: N_NG_D_Z
+    start: 2.645
+    type: viseme
+  - end: 3.215
+    id: IDLE
+    start: 2.825
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_thattickles_c500.wav
+  text: <chilly_thattickles_c500 missing text>
+chilly_wasntexpectingthat_c100:
+  actions:
+  - end: 0.285
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.525
+    id: N_NG_D_Z
+    start: 0.285
+    type: viseme
+  - end: 0.595
+    id: N_NG_D_Z
+    start: 0.525
+    type: viseme
+  - end: 0.775
+    id: EH_AE_AY
+    start: 0.595
+    type: viseme
+  - end: 0.925
+    id: AO_AW
+    start: 0.775
+    type: viseme
+  - end: 0.965
+    id: L
+    start: 0.925
+    type: viseme
+  - end: 1.035
+    id: AA_AH
+    start: 0.965
+    type: viseme
+  - end: 1.255
+    id: IDLE
+    start: 1.035
+    type: viseme
+  - end: 1.365
+    id: EH_AE_AY
+    start: 1.255
+    type: viseme
+  - end: 1.395
+    id: L
+    start: 1.365
+    type: viseme
+  - end: 1.515
+    id: AA_AH
+    start: 1.395
+    type: viseme
+  - end: 1.555
+    id: N_NG_D_Z
+    start: 1.515
+    type: viseme
+  - end: 1.645
+    id: EH_AE_AY
+    start: 1.555
+    type: viseme
+  - end: 1.675
+    id: N_NG_D_Z
+    start: 1.645
+    type: viseme
+  - end: 1.755
+    id: EY
+    start: 1.675
+    type: viseme
+  - end: 1.815
+    id: N_NG_D_Z
+    start: 1.755
+    type: viseme
+  - end: 1.895
+    id: N_NG_D_Z
+    start: 1.815
+    type: viseme
+  - end: 1.965
+    id: M_B_P
+    start: 1.895
+    type: viseme
+  - end: 2.055
+    id: EH_AE_AY
+    start: 1.965
+    type: viseme
+  - end: 2.125
+    id: N_NG_D_Z
+    start: 2.055
+    type: viseme
+  - end: 2.165
+    id: N_NG_D_Z
+    start: 2.125
+    type: viseme
+  - end: 2.215
+    id: EY
+    start: 2.165
+    type: viseme
+  - end: 2.325
+    id: AA_AH
+    start: 2.215
+    type: viseme
+  - end: 2.375
+    id: N_NG_D_Z
+    start: 2.325
+    type: viseme
+  - end: 2.675
+    id: EH_AE_AY
+    start: 2.375
+    type: viseme
+  - end: 2.725
+    id: N_NG_D_Z
+    start: 2.675
+    type: viseme
+  - end: 2.805
+    id: M_B_P
+    start: 2.725
+    type: viseme
+  - end: 2.935
+    id: M_B_P
+    start: 2.805
+    type: viseme
+  - end: 3.545
+    id: IDLE
+    start: 2.935
+    type: viseme
+  - end: 4.005
+    id: EY
+    start: 3.545
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_wasntexpectingthat_c100.wav
+  text: <chilly_wasntexpectingthat_c100 missing text>
+chilly_wowyouknowthesesteps_c100:
+  actions:
+  - end: 0.455
+    id: IDLE
+    start: 0.005
+    type: viseme
+  - end: 0.495
+    id: CH_SH_ZH
+    start: 0.455
+    type: viseme
+  - end: 0.615
+    id: L
+    start: 0.495
+    type: viseme
+  - end: 0.705
+    id: EH_AE_AY
+    start: 0.615
+    type: viseme
+  - end: 0.975
+    id: AO_AW
+    start: 0.705
+    type: viseme
+  - end: 1.045
+    id: AA_AH
+    start: 0.975
+    type: viseme
+  - end: 1.185
+    id: N_NG_D_Z
+    start: 1.045
+    type: viseme
+  - end: 1.265
+    id: IDLE
+    start: 1.185
+    type: viseme
+  - end: 1.315
+    id: AA_AH
+    start: 1.265
+    type: viseme
+  - end: 1.365
+    id: EY
+    start: 1.315
+    type: viseme
+  - end: 1.405
+    id: AA_AH
+    start: 1.365
+    type: viseme
+  - end: 1.635
+    id: EH_AE_AY
+    start: 1.405
+    type: viseme
+  - end: 1.715
+    id: EH_AE_AY
+    start: 1.635
+    type: viseme
+  - end: 1.755
+    id: N_NG_D_Z
+    start: 1.715
+    type: viseme
+  - end: 1.895
+    id: EY
+    start: 1.755
+    type: viseme
+  - end: 1.995
+    id: M_B_P
+    start: 1.895
+    type: viseme
+  - end: 2.025
+    id: N_NG_D_Z
+    start: 1.995
+    type: viseme
+  - end: 2.065
+    id: N_NG_D_Z
+    start: 2.025
+    type: viseme
+  - end: 2.225
+    id: EH_AE_AY
+    start: 2.065
+    type: viseme
+  - end: 2.265
+    id: N_NG_D_Z
+    start: 2.225
+    type: viseme
+  - end: 2.475
+    id: N_NG_D_Z
+    start: 2.265
+    type: viseme
+  - end: 2.725
+    id: EH_AE_AY
+    start: 2.475
+    type: viseme
+  - end: 2.835
+    id: L
+    start: 2.725
+    type: viseme
+  - end: 2.925
+    id: AO_AW
+    start: 2.835
+    type: viseme
+  - end: 3.165
+    id: AO_AW
+    start: 2.925
+    type: viseme
+  - end: 3.205
+    id: N_NG_D_Z
+    start: 3.165
+    type: viseme
+  - end: 3.285
+    id: M_B_P
+    start: 3.205
+    type: viseme
+  - end: 4.135
+    id: IDLE
+    start: 3.285
+    type: viseme
+  - end: 4.505
+    id: EY
+    start: 4.135
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_wowyouknowthesesteps_c100.wav
+  text: <chilly_wowyouknowthesesteps_c100 missing text>
+chilly_yaythanks_c100:
+  actions:
+  - end: 0.205
+    id: M_B_P
+    start: 0.005
+    type: viseme
+  - end: 0.495
+    id: IDLE
+    start: 0.205
+    type: viseme
+  - end: 0.545
+    id: N_NG_D_Z
+    start: 0.495
+    type: viseme
+  - end: 0.675
+    id: EY
+    start: 0.545
+    type: viseme
+  - end: 0.725
+    id: N_NG_D_Z
+    start: 0.675
+    type: viseme
+  - end: 0.775
+    id: AO_AW
+    start: 0.725
+    type: viseme
+  - end: 0.965
+    id: EH_AE_AY
+    start: 0.775
+    type: viseme
+  - end: 1.175
+    id: AA_AH
+    start: 0.965
+    type: viseme
+  - end: 1.345
+    id: AO_AW
+    start: 1.175
+    type: viseme
+  - end: 1.415
+    id: M_B_P
+    start: 1.345
+    type: viseme
+  - end: 1.485
+    id: N_NG_D_Z
+    start: 1.415
+    type: viseme
+  - end: 1.675
+    id: EY
+    start: 1.485
+    type: viseme
+  - end: 1.715
+    id: N_NG_D_Z
+    start: 1.675
+    type: viseme
+  - end: 1.755
+    id: N_NG_D_Z
+    start: 1.715
+    type: viseme
+  - end: 1.855
+    id: EH_AE_AY
+    start: 1.755
+    type: viseme
+  - end: 1.925
+    id: CH_SH_ZH
+    start: 1.855
+    type: viseme
+  - end: 2.025
+    id: EY
+    start: 1.925
+    type: viseme
+  - end: 2.095
+    id: N_NG_D_Z
+    start: 2.025
+    type: viseme
+  - end: 2.175
+    id: EY
+    start: 2.095
+    type: viseme
+  - end: 2.235
+    id: L
+    start: 2.175
+    type: viseme
+  - end: 2.375
+    id: EY
+    start: 2.235
+    type: viseme
+  - end: 2.515
+    id: EY
+    start: 2.375
+    type: viseme
+  - end: 2.605
+    id: N_NG_D_Z
+    start: 2.515
+    type: viseme
+  - end: 2.635
+    id: N_NG_D_Z
+    start: 2.605
+    type: viseme
+  - end: 2.715
+    id: EY
+    start: 2.635
+    type: viseme
+  - end: 2.895
+    id: EH_AE_AY
+    start: 2.715
+    type: viseme
+  - end: 2.945
+    id: N_NG_D_Z
+    start: 2.895
+    type: viseme
+  - end: 3.465
+    id: AA_AH
+    start: 2.945
+    type: viseme
+  - end: 3.555
+    id: EY
+    start: 3.465
+    type: viseme
+  - end: 3.705
+    id: AA_AH
+    start: 3.555
+    type: viseme
+  - end: 3.895
+    id: N_NG_D_Z
+    start: 3.705
+    type: viseme
+  - end: 4.005
+    id: EH_AE_AY
+    start: 3.895
+    type: viseme
+  - end: 4.065
+    id: N_NG_D_Z
+    start: 4.005
+    type: viseme
+  - end: 4.115
+    id: EH_AE_AY
+    start: 4.065
+    type: viseme
+  - end: 4.175
+    id: N_NG_D_Z
+    start: 4.115
+    type: viseme
+  - end: 4.225
+    id: EH_AE_AY
+    start: 4.175
+    type: viseme
+  - end: 4.355
+    id: EY
+    start: 4.225
+    type: viseme
+  - end: 4.395
+    id: M_B_P
+    start: 4.355
+    type: viseme
+  - end: 4.475
+    id: CH_SH_ZH
+    start: 4.395
+    type: viseme
+  - end: 4.555
+    id: EY
+    start: 4.475
+    type: viseme
+  - end: 4.605
+    id: EH_AE_AY
+    start: 4.555
+    type: viseme
+  - end: 4.645
+    id: M_B_P
+    start: 4.605
+    type: viseme
+  - end: 4.695
+    id: N_NG_D_Z
+    start: 4.645
+    type: viseme
+  - end: 4.865
+    id: EH_AE_AY
+    start: 4.695
+    type: viseme
+  - end: 4.915
+    id: R_ER
+    start: 4.865
+    type: viseme
+  - end: 4.995
+    id: EY
+    start: 4.915
+    type: viseme
+  - end: 5.335
+    id: M_B_P
+    start: 4.995
+    type: viseme
+  - end: 5.375
+    id: AA_AH
+    start: 5.335
+    type: viseme
+  - end: 5.405
+    id: N_NG_D_Z
+    start: 5.375
+    type: viseme
+  - end: 5.885
+    id: IDLE
+    start: 5.405
+    type: viseme
+  - end: 5.945
+    id: M_B_P
+    start: 5.885
+    type: viseme
+  - end: 5.975
+    id: EH_AE_AY
+    start: 5.945
+    type: viseme
+  - end: 6.005
+    id: EY
+    start: 5.975
+    type: viseme
+  file: /home/dragonbot/dragonbot_ros/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft2/data/chilly_yaythanks_c100.wav
+  text: <chilly_yaythanks_c100 missing text>

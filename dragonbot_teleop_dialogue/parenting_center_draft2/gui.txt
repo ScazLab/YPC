@@ -1,0 +1,5 @@
+- gui: sleep
+  elements:
+  - type: button
+    label: wakeup
+    topic: dragon_GUI/sleep

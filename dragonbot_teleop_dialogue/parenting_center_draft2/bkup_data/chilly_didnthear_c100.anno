@@ -1,0 +1,45 @@
+version 1.2
+audio chilly_didnthearyou_c100.wav
+phn 5 425 0 x
+phn 425 475 0 n
+phn 475 745 0 x
+phn 745 835 26 h
+phn 835 1165 134 IH
+phn 1165 1285 12 n
+phn 1285 1385 72 IH
+phn 1385 1425 49 n
+phn 1425 1455 56 DH
+phn 1455 1535 70 IY
+phn 1535 1655 79 IH
+phn 1655 1695 55 NG
+phn 1695 1805 72 y
+phn 1805 1945 85 IH
+phn 1945 1985 80 NG
+phn 1985 2115 80 IY
+phn 2115 2225 72 IH
+phn 2225 2315 65 r
+phn 2315 2575 0 x
+phn 2575 2665 47 k
+phn 2665 2695 65 IH
+phn 2695 2745 59 n
+phn 2745 2785 62 z
+phn 2785 2865 70 IH
+phn 2865 2935 37 n
+phn 2935 3025 53 g
+phn 3025 3215 96 IY
+phn 3215 3265 52 h
+phn 3265 3385 79 EY
+phn 3385 3415 45 m
+phn 3415 3565 86 AW
+phn 3565 3595 54 n
+phn 3595 3695 70 EY
+phn 3695 3735 42 d
+phn 3735 3945 100 AE
+phn 3945 3995 77 l
+phn 3995 4055 65 UW
+phn 4055 4155 25 m
+phn 4155 5495 0 x
+phn 5495 5535 37 d
+phn 5535 5625 0 x
+phn 5625 6005 0 p
+end_markers

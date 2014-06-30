@@ -1,0 +1,17 @@
+version 1.2
+audio chilly_thatsok_c100.wav
+phn 5 715 0 x
+phn 715 795 7 n
+phn 795 855 93 b
+phn 855 1035 98 AE
+phn 1035 1115 93 TH
+phn 1115 1225 79 EH
+phn 1225 1255 65 r
+phn 1255 1305 54 t
+phn 1305 1355 58 h
+phn 1355 1495 86 AE
+phn 1495 1715 107 EY
+phn 1715 1805 9 m
+phn 1805 2455 0 x
+phn 2455 2505 0 TH
+end_markers

@@ -1,0 +1,34 @@
+version 1.2
+audio /home/corinagrigore/Documents/ros_ws1/yale-ros-pkg/sandbox/dragonbot_teleop_dialogue/parenting_center_draft1/data/chilly_nicetomeetyou_converted_100.wav
+phn 5 265 7 m
+phn 265 345 7 v
+phn 345 475 6 m
+phn 475 805 75 l
+phn 805 915 79 ER
+phn 915 1055 83 EY
+phn 1055 1145 26 h
+phn 1145 1185 27 IH
+phn 1185 1245 51 k
+phn 1245 1355 79 EH
+phn 1355 1445 84 n
+phn 1445 1575 71 SH
+phn 1575 1695 82 EH
+phn 1695 1735 65 r
+phn 1735 1935 98 IY
+phn 1935 1985 18 NG
+phn 1985 2115 9 h
+phn 2115 2175 9 IH
+phn 2175 2315 11 v
+phn 2315 2395 84 b
+phn 2395 2535 87 EY
+phn 2535 2615 38 z
+phn 2615 2665 53 t
+phn 2665 2765 76 UW
+phn 2765 2855 73 IY
+phn 2855 2915 77 l
+phn 2915 3045 80 IY
+phn 3045 3175 80 EH
+phn 3175 3855 29 m
+phn 3855 3955 23 v
+phn 3955 4005 0 p
+end_markers

@@ -1,0 +1,28 @@
+version 1.2
+audio chilly_readyforallthreesteps_c100.wav
+phn 5 705 14 m
+phn 705 915 42 x
+phn 915 1025 78 EH
+phn 1025 1105 95 l
+phn 1105 1265 92 AE
+phn 1265 1465 101 IY
+phn 1465 1505 33 j
+phn 1505 1655 87 EH
+phn 1655 1695 72 k
+phn 1695 1855 92 AA
+phn 1855 1945 56 l
+phn 1945 2005 49 d
+phn 2005 2055 65 r
+phn 2055 2195 84 IY
+phn 2195 2325 33 z
+phn 2325 2355 45 d
+phn 2355 2525 93 AE
+phn 2525 2575 38 z
+phn 2575 2645 45 DH
+phn 2645 2805 87 AE
+phn 2805 2935 78 AW
+phn 2935 3365 17 m
+phn 3365 3585 18 h
+phn 3585 3625 22 AE
+phn 3625 4005 0 p
+end_markers

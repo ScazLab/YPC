@@ -1,0 +1,4 @@
+#yaml file with actions for a single phrase
+- type: expression
+  id: surprised
+  start: 0

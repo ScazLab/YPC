@@ -1,0 +1,26 @@
+version 1.2
+audio chilly_thattickles_c500.wav
+phn 5 55 0 x
+phn 55 165 0 m
+phn 165 235 49 k
+phn 235 295 65 EH
+phn 295 345 56 k
+phn 345 585 109 AE
+phn 585 665 67 EH
+phn 665 745 58 t
+phn 745 795 65 IY
+phn 795 885 2 n
+phn 885 1535 0 x
+phn 1535 1575 90 b
+phn 1575 1925 142 AE
+phn 1925 1985 0 m
+phn 1985 2035 45 t
+phn 2035 2095 56 SH
+phn 2095 2215 82 IH
+phn 2215 2285 47 NG
+phn 2285 2315 60 d
+phn 2315 2475 92 AA
+phn 2475 2635 89 AW
+phn 2635 2815 19 z
+phn 2815 3215 0 x
+end_markers

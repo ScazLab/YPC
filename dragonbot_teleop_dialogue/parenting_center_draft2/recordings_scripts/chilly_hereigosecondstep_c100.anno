@@ -1,0 +1,32 @@
+version 1.2
+audio chilly_hereigosecondstep_c100.wav
+phn 5 635 4 x
+phn 635 865 72 h
+phn 865 915 65 IH
+phn 915 1015 76 EY
+phn 1015 1175 92 AE
+phn 1175 1225 60 d
+phn 1225 1535 132 AE
+phn 1535 1585 87 l
+phn 1585 1695 23 m
+phn 1695 2195 6 x
+phn 2195 2335 79 t
+phn 2335 2425 74 IH
+phn 2425 2555 84 EH
+phn 2555 2655 69 l
+phn 2655 2745 12 v
+phn 2745 2875 4 m
+phn 2875 2985 7 x
+phn 2985 3075 73 w
+phn 3075 3155 71 AA
+phn 3155 3255 87 l
+phn 3255 3335 71 AE
+phn 3335 3455 70 h
+phn 3455 3615 92 AE
+phn 3615 3655 27 m
+phn 3655 3835 94 EY
+phn 3835 3955 79 IY
+phn 3955 4025 18 n
+phn 4025 4845 7 x
+phn 4845 5005 0 p
+end_markers

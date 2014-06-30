@@ -1,0 +1,33 @@
+version 1.2
+audio chilly_readytohearnextone_c100.wav
+phn 5 115 0 m
+phn 115 835 0 x
+phn 835 905 42 g
+phn 905 955 65 r
+phn 955 1295 139 EY
+phn 1295 1335 24 v
+phn 1335 1375 15 z
+phn 1375 1565 6 h
+phn 1565 1705 49 x
+phn 1705 1805 76 EH
+phn 1805 1895 73 r
+phn 1895 2025 84 AE
+phn 2025 2205 96 IY
+phn 2205 2265 46 z
+phn 2265 2355 71 EY
+phn 2355 2405 47 h
+phn 2405 2465 65 IY
+phn 2465 2605 87 AE
+phn 2605 2655 79 n
+phn 2655 2865 104 IH
+phn 2865 2945 34 t
+phn 2945 3055 32 s
+phn 3055 3105 75 l
+phn 3105 3275 92 AY
+phn 3275 3355 65 ER
+phn 3355 3415 48 m
+phn 3415 4465 3 x
+phn 4465 4545 40 d
+phn 4545 4595 10 v
+phn 4595 5005 0 p
+end_markers

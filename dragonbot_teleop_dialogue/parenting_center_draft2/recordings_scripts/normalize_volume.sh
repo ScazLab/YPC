@@ -1,0 +1,1 @@
+normalize-audio -m *.wav

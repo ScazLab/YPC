@@ -1,0 +1,28 @@
+version 1.2
+audio chilly_firststep_c100.wav
+phn 5 895 0 x
+phn 895 1055 87 w
+phn 1055 1315 113 AY
+phn 1315 1395 28 n
+phn 1395 1445 20 IY
+phn 1445 1735 0 x
+phn 1735 1805 65 w
+phn 1805 1835 63 l
+phn 1835 1905 66 AY
+phn 1905 2015 72 AH
+phn 2015 2115 32 k
+phn 2115 2185 65 EY
+phn 2185 2255 65 IH
+phn 2255 2295 36 g
+phn 2295 2515 102 AY
+phn 2515 2555 65 IH
+phn 2555 2655 15 n
+phn 2655 2685 17 d
+phn 2685 2825 82 IY
+phn 2825 2965 79 EH
+phn 2965 3045 36 l
+phn 3045 4065 0 x
+phn 4065 4135 29 t
+phn 4135 4215 0 x
+phn 4215 4505 0 p
+end_markers

@@ -1,0 +1,4 @@
+#yaml file with actions for a single phrase
+- type: expression
+  id: i_like_it
+  start: 0.5

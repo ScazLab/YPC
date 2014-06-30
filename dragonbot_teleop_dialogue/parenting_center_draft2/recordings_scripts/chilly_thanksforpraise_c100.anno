@@ -1,0 +1,36 @@
+version 1.2
+audio chilly_thanksforpraise_c100.wav
+phn 5 745 0 x
+phn 745 805 80 b
+phn 805 995 99 EY
+phn 995 1075 59 l
+phn 1075 1115 49 d
+phn 1115 1265 21 z
+phn 1265 1505 38 x
+phn 1505 1615 79 AY
+phn 1615 1695 71 EH
+phn 1695 1745 100 l
+phn 1745 1905 91 EY
+phn 1905 1945 58 t
+phn 1945 1995 65 w
+phn 1995 2105 77 EY
+phn 2105 2135 69 n
+phn 2135 2175 65 IH
+phn 2175 2265 62 l
+phn 2265 2405 83 IY
+phn 2405 2545 26 z
+phn 2545 2585 57 d
+phn 2585 2695 77 AE
+phn 2695 2725 35 n
+phn 2725 2855 41 s
+phn 2855 2925 66 IH
+phn 2925 2955 36 NG
+phn 2955 3015 38 z
+phn 3015 3125 76 IY
+phn 3125 3255 80 EH
+phn 3255 3315 65 r
+phn 3315 3375 10 m
+phn 3375 4385 15 x
+phn 4385 4495 39 k
+phn 4495 5005 0 p
+end_markers

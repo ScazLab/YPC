@@ -1,0 +1,35 @@
+version 1.2
+audio chilly_stepone_c100.wav
+phn 5 295 19 m
+phn 295 505 19 x
+phn 505 635 17 m
+phn 635 765 81 UW
+phn 765 865 90 l
+phn 865 1135 119 AY
+phn 1135 1215 48 n
+phn 1215 1265 65 IH
+phn 1265 1565 20 m
+phn 1565 1615 16 x
+phn 1615 1785 21 h
+phn 1785 1825 65 UW
+phn 1825 1895 65 w
+phn 1895 2135 112 AY
+phn 2135 2185 20 v
+phn 2185 2235 33 k
+phn 2235 2305 49 h
+phn 2305 2415 73 AE
+phn 2415 2485 65 EH
+phn 2485 2595 21 n
+phn 2595 2935 138 AA
+phn 2935 3055 78 EY
+phn 3055 3095 57 n
+phn 3095 3155 49 l
+phn 3155 3215 24 v
+phn 3215 3255 44 z
+phn 3255 3515 115 IH
+phn 3515 3585 65 OW
+phn 3585 3665 38 l
+phn 3665 3695 23 v
+phn 3695 4385 18 m
+phn 4385 4505 0 p
+end_markers

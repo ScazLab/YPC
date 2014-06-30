@@ -1,0 +1,45 @@
+version 1.2
+audio chilly_forgotthirdstep_c100.wav
+phn 5 145 6 m
+phn 145 735 7 h
+phn 735 765 7 IH
+phn 765 795 9 m
+phn 795 945 64 x
+phn 945 1115 95 AE
+phn 1115 1185 65 IH
+phn 1185 1245 35 h
+phn 1245 1315 68 IH
+phn 1315 1385 65 r
+phn 1385 1425 81 d
+phn 1425 1655 111 AE
+phn 1655 1685 42 d
+phn 1685 1915 110 AE
+phn 1915 2055 35 z
+phn 2055 2305 115 AE
+phn 2305 2345 28 IH
+phn 2345 2625 18 h
+phn 2625 2745 14 AE
+phn 2745 2855 59 k
+phn 2855 3055 103 EY
+phn 3055 3175 65 t
+phn 3175 3325 90 AW
+phn 3325 3385 65 AH
+phn 3385 3425 42 v
+phn 3425 3495 29 z
+phn 3495 3535 56 d
+phn 3535 3755 108 AE
+phn 3755 3815 52 d
+phn 3815 3875 65 r
+phn 3875 3945 67 IY
+phn 3945 3975 100 l
+phn 3975 4075 76 EH
+phn 4075 4125 55 j
+phn 4125 4385 119 AE
+phn 4385 4555 85 IH
+phn 4555 4995 14 h
+phn 4995 5085 11 UW
+phn 5085 5185 10 m
+phn 5185 5285 6 x
+phn 5285 5435 47 d
+phn 5435 5505 0 p
+end_markers

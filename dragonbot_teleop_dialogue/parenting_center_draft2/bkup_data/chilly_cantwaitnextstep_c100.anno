@@ -1,0 +1,39 @@
+version 1.2
+audio chilly_cantwaitnextstep_c100.wav
+phn 5 935 0 x
+phn 935 985 68 t
+phn 985 1055 65 AY
+phn 1055 1095 34 n
+phn 1095 1135 36 z
+phn 1135 1185 26 h
+phn 1185 1375 96 EH
+phn 1375 1455 65 r
+phn 1455 1495 74 l
+phn 1495 1635 83 IY
+phn 1635 1675 32 l
+phn 1675 1735 34 t
+phn 1735 1835 71 IY
+phn 1835 1885 27 z
+phn 1885 1965 68 IY
+phn 1965 2035 68 IH
+phn 2035 2095 65 AH
+phn 2095 2155 80 l
+phn 2155 2205 65 EH
+phn 2205 2275 26 r
+phn 2275 2315 56 DH
+phn 2315 2355 65 IH
+phn 2355 2425 66 NG
+phn 2425 2555 81 IH
+phn 2555 2595 28 NG
+phn 2595 2795 40 TH
+phn 2795 2935 82 AE
+phn 2935 2975 11 NG
+phn 2975 3005 45 DH
+phn 3005 3245 108 EH
+phn 3245 3325 23 v
+phn 3325 3375 10 TH
+phn 3375 4645 0 x
+phn 4645 4705 28 d
+phn 4705 4785 0 x
+phn 4785 5005 0 p
+end_markers
